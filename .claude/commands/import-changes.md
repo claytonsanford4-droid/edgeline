@@ -1,0 +1,1 @@
+Merge the file edgeline-changes.json (or the path given: $ARGUMENTS) into data/edgeline.json. It has the shape { collection: { docId: doc } }. For each doc keep the newer version (compare its _localAt with the file doc's updatedAt); remove docs marked _deleted; rename _localAt to updatedAt. Bump the top-level updatedAt, commit and push, then summarise what changed.

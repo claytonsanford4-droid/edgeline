@@ -1,0 +1,1 @@
+Add this bet to data/edgeline.json → collections.bets with owner "me", a new id "me-YYYY-MM-DD-<short random>", result "pending" and an updatedAt timestamp. Ask only if the odds or units are missing. Then commit and push. Bet: $ARGUMENTS

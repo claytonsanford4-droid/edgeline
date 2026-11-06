@@ -1,0 +1,4614 @@
+{
+ "updatedAt": "2026-11-05T21:45:00Z",
+ "collections": {
+  "bets": {
+   "2026-11-03-01": {
+    "date": "2026-11-03",
+    "final": "Withdrawn before puck drop: +140 was an offshore price (SportsBetting) not available in Ontario. The Ontario price (DraftKings −108) has no edge.",
+    "game": "Golden Knights @ Penguins",
+    "odds": 140,
+    "order": 1,
+    "owner": "claude",
+    "p": 49,
+    "pick": "Penguins ML",
+    "result": "push",
+    "signals": [
+     "Fatigue",
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "type": "single",
+    "units": 0.5,
+    "why": "Model says coin flip; Vegas is on the road half of a back-to-back after losing in Boston last night. Logged at the +140 posted at SportsBetting; only worth it at +115 or better."
+   },
+   "2026-11-03-02": {
+    "date": "2026-11-03",
+    "game": "Buffalo @ Miami (OH)",
+    "legs": [],
+    "odds": -105,
+    "order": 2,
+    "owner": "claude",
+    "p": 52.9,
+    "pick": "Miami (OH) −6.5",
+    "result": "win",
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NCAAF",
+    "type": "single",
+    "units": 1,
+    "why": "Tracked at 0 units at the trigger price of −112. The earlier even-money price came from Novig, which isn’t available in Ontario; only a lean if an Ontario book offers −112 or better."
+   },
+   "2026-11-03-03": {
+    "date": "2026-11-03",
+    "game": "Drexel @ Virginia",
+    "legs": [],
+    "odds": -102,
+    "order": 3,
+    "owner": "claude",
+    "p": 53.5,
+    "pick": "Drexel +30.5",
+    "result": "win",
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NCAAB",
+    "type": "single",
+    "units": 1,
+    "why": "Tracked at 0 units at Caesars −110 (Ontario-legal)."
+   },
+   "me-2026-11-03-mw0cssg3": {
+    "date": "2026-11-03",
+    "game": "Ohio @ Akron",
+    "legs": [],
+    "odds": -115,
+    "order": 1793690143491,
+    "owner": "me",
+    "pick": "Ohio -13.5",
+    "result": "loss",
+    "sport": "NCAAF",
+    "type": "single",
+    "units": 2,
+    "why": ""
+   },
+   "me-2026-11-03-mw0cvb5n": {
+    "date": "2026-11-03",
+    "game": "Golden Knights @ Penguins",
+    "legs": [],
+    "odds": -110,
+    "order": 1793690261051,
+    "owner": "me",
+    "pick": "Penguins ML",
+    "result": "loss",
+    "sport": "NHL",
+    "type": "single",
+    "units": 1,
+    "why": "Two books disagree sharply on this game: one has Pittsburgh at +102, another at +140. The engine blends their no-vig prices with SportRadar’s near coin-flip and adds a small, uncertain bump for Vegas playing a road back-to-back. At +140 the bet stays positive even at the pessimistic end of the interval; at +102 it does not."
+   },
+   "me-2026-11-04-mw402ro3": {
+    "date": "2026-11-04",
+    "game": "",
+    "legs": [],
+    "odds": -110,
+    "order": 1793910638739,
+    "owner": "me",
+    "pick": "Butler -27.5",
+    "result": "win",
+    "sport": "NCAAB",
+    "type": "single",
+    "units": 1,
+    "why": ""
+   },
+   "me-2026-11-05-mw40ja6b": {
+    "date": "2026-11-05",
+    "game": "",
+    "legs": [
+     "Podziemski 10+ points",
+     "Mitchell 15+ PA",
+     "Strange 10+ Rec Yards",
+     "Penn State ML",
+     "Penguins +3.5",
+     "Suns +15.5"
+    ],
+    "odds": -106,
+    "order": 1793911409219,
+    "owner": "me",
+    "pick": "Thursday ALT PARLAY",
+    "result": "pending",
+    "sport": "NHL",
+    "type": "single",
+    "units": 4,
+    "why": ""
+   },
+   "me-2026-11-05-mw40meq0": {
+    "date": "2026-11-05",
+    "game": "McNeese @ North Texas",
+    "legs": [],
+    "odds": -115,
+    "order": 1793911555080,
+    "owner": "me",
+    "pick": "Over Total 138.5",
+    "result": "pending",
+    "sport": "NCAAB",
+    "type": "single",
+    "units": 2,
+    "why": ""
+   },
+   "me-2026-11-05-mw40t9jb": {
+    "date": "2026-11-05",
+    "game": "Jags vs Ravens + Warriors vs Heat",
+    "legs": [
+     "Jaguars -3.5",
+     "Warriors -2.5"
+    ],
+    "odds": 132,
+    "order": 1793911874951,
+    "owner": "me",
+    "pick": "Jaguars + Warriors",
+    "result": "pending",
+    "sport": "Multi",
+    "type": "parlay",
+    "units": 1,
+    "why": ""
+   },
+   "me-2026-11-05-mw40vobu": {
+    "date": "2026-11-05",
+    "game": "Jaguars @ Ravens",
+    "legs": [],
+    "odds": -110,
+    "order": 1793911987434,
+    "owner": "me",
+    "pick": "Over 39.5",
+    "result": "pending",
+    "sport": "NHL",
+    "type": "single",
+    "units": 1,
+    "why": ""
+   },
+   "me-2026-11-05-mw4166qk": {
+    "date": "2026-11-05",
+    "game": "Jaguars @ Ravens",
+    "legs": [
+     "Andrews 2+ catches",
+     "Henry 30+ Rushing yards",
+     "Washington 30+ Rec Yards",
+     "Strange 20+ Rec Yards"
+    ],
+    "odds": 125,
+    "order": 1793912477852,
+    "owner": "me",
+    "pick": "ALT PARLAY",
+    "result": "pending",
+    "sport": "NFL",
+    "type": "parlay",
+    "units": 2,
+    "why": ""
+   }
+  },
+  "markets": {
+   "b-2026-11-03-clev-mizz": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T08:00:00Z",
+    "date": "2026-11-03",
+    "game": "Cleveland State @ Missouri",
+    "market": "Spread",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DRatings-listed book",
+        "odds": -108
+       }
+      ],
+      "pick": "Cleveland State +26.5"
+     },
+     {
+      "books": [
+       {
+        "book": "DRatings-listed book",
+        "odds": -110
+       }
+      ],
+      "pick": "Missouri −26.5"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Market prior: standard −110/−110 spread pricing (assumption)",
+      "p": 50,
+      "sd": 3,
+      "side": 0,
+      "verified": false
+     },
+     {
+      "name": "DRatings projection 94.6–72.0 → P(cover), σ=11",
+      "p": 63.9,
+      "sd": 9,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAB",
+    "time": "8:00 PM",
+    "warnings": [
+     "Action Network’s system backs Missouri −25.5 while DRatings leans Cleveland State. Contradicting sources, so no pick."
+    ]
+   },
+   "b-2026-11-03-drex-uva": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T09:00:00Z",
+    "date": "2026-11-03",
+    "explain": "Dimers puts Drexel at 54% to cover and DRatings projects a 21-point Virginia win, well short of 31.5. The engine still shrinks both toward 50% because opening-week models haven’t seen these rosters play.",
+    "game": "Drexel @ Virginia",
+    "h2h": {
+     "meetings": [],
+     "summary": "No recent meetings found. Virginia won last season’s opener by 34.",
+     "verdict": "neutral"
+    },
+    "market": "Spread",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x12",
+      "books": [
+       {
+        "book": "Caesars",
+        "odds": -110
+       },
+       {
+        "book": "DRatings-listed",
+        "odds": -108
+       },
+       {
+        "book": "Pick Dawgz-listed",
+        "odds": -112
+       }
+      ],
+      "pick": "Drexel +31.5"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -108
+       }
+      ],
+      "pick": "Virginia −31.5"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Market prior: standard −110/−110 spread pricing (assumption)",
+      "p": 50,
+      "sd": 3,
+      "side": 0,
+      "verified": false
+     },
+     {
+      "name": "Dimers simulation model",
+      "p": 54,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     },
+     {
+      "name": "DRatings projection 79.5–58.7 → P(cover), σ=11",
+      "p": 83.5,
+      "sd": 9,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAB",
+    "time": "7:30 PM",
+    "warnings": [
+     "Two independent models and two analysts all lean Drexel, but nobody has seen these rebuilt rosters play yet. Opening-night spreads this large are the least reliable numbers on the board."
+    ]
+   },
+   "b-2026-11-03-man-uk": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Manhattan @ Kentucky",
+    "market": "Spread",
+    "news": [
+     "Kentucky won last season’s opener by 26."
+    ],
+    "sides": [
+     {
+      "boardId": "2026-11-03-x11",
+      "books": [
+       {
+        "book": "Dimers-listed book",
+        "odds": -105
+       }
+      ],
+      "pick": "Manhattan +32.5"
+     },
+     {
+      "books": [],
+      "pick": "Kentucky −32.5"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Market prior: standard −110/−110 spread pricing (assumption)",
+      "p": 50,
+      "sd": 3,
+      "side": 0,
+      "verified": false
+     },
+     {
+      "name": "Dimers simulation model",
+      "p": 56,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAB",
+    "time": "7:00 PM"
+   },
+   "b-2026-11-03-sdsu-ksu-sp": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T08:00:00Z",
+    "date": "2026-11-03",
+    "game": "South Dakota State @ Kansas State",
+    "h2h": {
+     "meetings": [
+      {
+       "s": "SDSU 0–5 vs Big 12",
+       "w": "opp"
+      },
+      {
+       "s": "KSU 27–4 home non-con",
+       "w": "opp"
+      }
+     ],
+     "summary": "South Dakota State has lost its last five games against Big 12 teams; Kansas State has won 27 of its last 31 non-conference home games.",
+     "verdict": "contradicts"
+    },
+    "market": "Spread",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DRatings-listed book",
+        "odds": -110
+       },
+       {
+        "book": "Pick Dawgz-listed",
+        "odds": -118
+       }
+      ],
+      "pick": "South Dakota State +11.5"
+     },
+     {
+      "books": [
+       {
+        "book": "Pick Dawgz-listed",
+        "odds": -102
+       }
+      ],
+      "pick": "Kansas State −11.5"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Market prior: standard −110/−110 spread pricing (assumption)",
+      "p": 50,
+      "sd": 3,
+      "side": 0,
+      "verified": false
+     },
+     {
+      "name": "DRatings projection 85.6–75.0 → P(cover), σ=11",
+      "p": 53.3,
+      "sd": 8,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAB",
+    "time": "8:00 PM"
+   },
+   "b-2026-11-03-sdsu-ksu-tot": {
+    "adjustments": [
+     {
+      "delta": -1,
+      "evidence": "South Dakota State’s last nine night games vs unranked teams all finished at 156 or fewer; Kansas State’s last 11 home night games vs the Summit League went under 159 ten times.",
+      "label": "Recent scoring trends",
+      "priced": "partly",
+      "sd": 1.5,
+      "side": 0
+     }
+    ],
+    "capturedAt": "2026-11-03T08:00:00Z",
+    "date": "2026-11-03",
+    "game": "South Dakota State @ Kansas State",
+    "h2h": {
+     "meetings": [
+      {
+       "s": "SDSU 9/9 night ≤156",
+       "w": "opp"
+      },
+      {
+       "s": "KSU 10/11 ≤159",
+       "w": "opp"
+      }
+     ],
+     "summary": "Both teams’ comparable-game histories point under, against the expert over and DRatings’ slight over lean.",
+     "verdict": "contradicts"
+    },
+    "market": "Total",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DRatings-listed book",
+        "odds": -115
+       },
+       {
+        "book": "Alt book",
+        "odds": -110
+       }
+      ],
+      "pick": "Over 159"
+     },
+     {
+      "books": [
+       {
+        "book": "DRatings-listed book",
+        "odds": -105
+       },
+       {
+        "book": "Alt book",
+        "odds": -110
+       }
+      ],
+      "pick": "Under 159"
+     }
+    ],
+    "sources": [
+     {
+      "name": "DRatings projected total 160.6 → P(over 159), σ=16",
+      "p": 54,
+      "sd": 6,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAB",
+    "time": "8:00 PM",
+    "warnings": [
+     "A betting expert’s top pick here is the over, but the history contradicts it. This is exactly the kind of pick the second review is meant to catch."
+    ]
+   },
+   "b-2026-11-03-sea-haw": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Seattle U @ Hawaii",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "Bleacher Nation listed",
+        "odds": 105
+       }
+      ],
+      "pick": "Seattle U ML"
+     },
+     {
+      "books": [
+       {
+        "book": "Bleacher Nation listed",
+        "odds": -128
+       }
+      ],
+      "pick": "Hawaii ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "DataSkrive projection Hawaii 74–70 → P(win), σ=11",
+      "p": 64.2,
+      "sd": 8,
+      "side": 1,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAB"
+   },
+   "b-2026-11-03-uapb-ark": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "explain": "Dimers’ top-rated play of the day. Huge opening-week spreads are where models and markets disagree most, which is also where the engine is most skeptical.",
+    "game": "Arkansas-Pine Bluff @ Arkansas",
+    "market": "Spread",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x10",
+      "books": [
+       {
+        "book": "Dimers-listed book",
+        "odds": -110
+       }
+      ],
+      "pick": "Arkansas-Pine Bluff +39.5"
+     },
+     {
+      "books": [],
+      "pick": "Arkansas −39.5"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Market prior: standard −110/−110 spread pricing (assumption)",
+      "p": 50,
+      "sd": 3,
+      "side": 0,
+      "verified": false
+     },
+     {
+      "name": "Dimers simulation model",
+      "p": 60,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAB"
+   },
+   "c-2026-11-03-buf-moh-sp": {
+    "adjustments": [
+     {
+      "delta": 1,
+      "evidence": "The home team won seven straight meetings from 2017 to 2023; tonight Miami is home.",
+      "label": "Series home-field pattern",
+      "priced": "mostly",
+      "sd": 2,
+      "side": 0
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "explain": "Three models split three ways: one sees Miami winning by 14, one by about 4.5, one right around the number. Novig’s even-money price is the best on the board, but the disagreement keeps the interval wide.",
+    "game": "Buffalo @ Miami (OH)",
+    "h2h": {
+     "meetings": [
+      {
+       "d": "at Buffalo",
+       "s": "’25 MIA 37–20",
+       "w": "pick"
+      },
+      {
+       "d": "at Miami",
+       "s": "’23 MIA 23–10",
+       "w": "pick"
+      },
+      {
+       "d": "at Buffalo",
+       "s": "’22 BUF 24–20",
+       "w": "opp"
+      },
+      {
+       "d": "at Miami",
+       "s": "’21 MIA 45–18",
+       "w": "pick"
+      },
+      {
+       "d": "at Buffalo",
+       "s": "’20 BUF 42–10",
+       "w": "opp"
+      },
+      {
+       "d": "at Miami",
+       "s": "’19 MIA 34–20",
+       "w": "pick"
+      }
+     ],
+     "summary": "Miami (OH) leads the series 18–9 and has won the last two, including 37–20 at Buffalo last November. The home team won seven straight meetings from 2017–2023.",
+     "verdict": "supports"
+    },
+    "market": "Spread",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x09",
+      "books": [
+       {
+        "book": "Novig",
+        "odds": 100
+       }
+      ],
+      "pick": "Miami (OH) −6.5"
+     },
+     {
+      "books": [],
+      "pick": "Buffalo +6.5"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Market prior: standard −110/−110 spread pricing (assumption)",
+      "p": 50,
+      "sd": 3,
+      "side": 0,
+      "verified": false
+     },
+     {
+      "name": "Dimers simulation model",
+      "p": 54,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     },
+     {
+      "name": "Tony’s Picks fair spread −4.5 → P(cover), σ=14",
+      "p": 44.3,
+      "sd": 7,
+      "side": 0,
+      "verified": true
+     },
+     {
+      "name": "CollegeFootballPoll computer −14.0 → P(cover), σ=14",
+      "p": 70.5,
+      "sd": 8,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAF",
+    "time": "8:00 PM",
+    "warnings": [
+     "The three spread models disagree badly: Miami by 14, by 4.5, and right on the number. History helps, but this is a lean, not a bet."
+    ]
+   },
+   "c-2026-11-03-buf-moh": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Buffalo @ Miami (OH)",
+    "market": "Moneyline",
+    "news": [
+     "Both teams are 3–1 in MAC play.",
+     "The line moved from Miami −5.5 to −6.5.",
+     "Miami (OH) switched to Caleb Heavner at quarterback."
+    ],
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "Market consensus",
+        "odds": 210
+       }
+      ],
+      "pick": "Buffalo ML"
+     },
+     {
+      "books": [
+       {
+        "book": "Market consensus",
+        "odds": -250
+       }
+      ],
+      "pick": "Miami (OH) ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Tony’s Picks matchup model",
+      "p": 64,
+      "sd": 6,
+      "side": 1,
+      "verified": true
+     },
+     {
+      "name": "Dimers simulation model",
+      "p": 73.4,
+      "sd": 5,
+      "side": 1,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAF",
+    "time": "8:00 PM"
+   },
+   "c-2026-11-03-ohio-akr-sp": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "explain": "The two independent spread models disagree on which side of 12.5 the game lands, so the engine leans on the market and finds no meaningful edge.",
+    "game": "Ohio @ Akron",
+    "market": "Spread",
+    "sides": [
+     {
+      "books": [],
+      "pick": "Ohio −12.5"
+     },
+     {
+      "books": [
+       {
+        "book": "SBR consensus",
+        "odds": -110
+       }
+      ],
+      "pick": "Akron +12.5"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Market prior: standard −110/−110 spread pricing (assumption)",
+      "p": 50,
+      "sd": 3,
+      "side": 0,
+      "verified": false
+     },
+     {
+      "name": "Tony’s Picks fair spread −15 → P(cover), σ=14",
+      "p": 57.1,
+      "sd": 7,
+      "side": 0,
+      "verified": true
+     },
+     {
+      "name": "CollegeFootballPoll computer −9.0 → P(cover), σ=14",
+      "p": 40.2,
+      "sd": 8,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAF",
+    "time": "7:00 PM"
+   },
+   "c-2026-11-03-ohio-akr-sp145": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T08:00:00Z",
+    "date": "2026-11-03",
+    "game": "Ohio @ Akron",
+    "h2h": {
+     "meetings": [
+      {
+       "s": "’24 OHIO 30–10",
+       "w": "pick"
+      },
+      {
+       "s": "7 straight since ’17",
+       "w": "pick"
+      }
+     ],
+     "summary": "Ohio has won seven straight meetings since 2017, most recently 30–10 in 2024.",
+     "verdict": "supports"
+    },
+    "market": "Spread",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "Polymarket",
+        "odds": 109
+       }
+      ],
+      "pick": "Ohio −14.5"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Market prior: standard −110/−110 spread pricing (assumption)",
+      "p": 50,
+      "sd": 3,
+      "side": 0,
+      "verified": false
+     },
+     {
+      "name": "Tony’s Picks fair spread −15 → P(cover), σ=14",
+      "p": 51.4,
+      "sd": 7,
+      "side": 0,
+      "verified": true
+     },
+     {
+      "name": "CollegeFootballPoll computer −9.0 → P(cover), σ=14",
+      "p": 34.7,
+      "sd": 8,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAF",
+    "time": "7:00 PM",
+    "warnings": [
+     "The two spread models are six points apart on the margin; the plus-money price isn’t enough to clear the bar."
+    ]
+   },
+   "c-2026-11-03-ohio-akr": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Ohio @ Akron",
+    "h2h": {
+     "meetings": [
+      {
+       "s": "’24 OHIO 30–10",
+       "w": "pick"
+      },
+      {
+       "s": "7 straight since ’17",
+       "w": "pick"
+      }
+     ],
+     "summary": "Ohio has won seven straight meetings since 2017, most recently 30–10 in 2024.",
+     "verdict": "supports"
+    },
+    "market": "Moneyline",
+    "news": [
+     "Ohio is 6–2; Akron is 1–7.",
+     "Akron allows 5.8 yards per carry, 136th in FBS."
+    ],
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "Market consensus",
+        "odds": -485
+       }
+      ],
+      "pick": "Ohio ML"
+     },
+     {
+      "books": [
+       {
+        "book": "Market consensus",
+        "odds": 370
+       }
+      ],
+      "pick": "Akron ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Tony’s Picks matchup model",
+      "p": 83,
+      "sd": 6,
+      "side": 0,
+      "verified": true
+     },
+     {
+      "name": "Dimers simulation model",
+      "p": 81,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NCAAF",
+    "time": "7:00 PM",
+    "warnings": [
+     "History agrees with the favourite, but −485 already prices that in: the models make Ohio about 81%, slightly below the price."
+    ]
+   },
+   "m-2026-11-03-ana-van-tot": {
+    "adjustments": [
+     {
+      "delta": 1,
+      "evidence": "Vancouver’s penalty kill is 66.7%; Anaheim’s last four games all had 9+ goals.",
+      "label": "Special-teams mismatch and recent scoring",
+      "priced": "mostly",
+      "sd": 2,
+      "side": 0
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Ducks @ Canucks",
+    "market": "Total",
+    "sides": [
+     {
+      "boardId": "2026-11-03-07",
+      "books": [
+       {
+        "book": "Bovada",
+        "odds": -115
+       }
+      ],
+      "pick": "Over 6.5"
+     },
+     {
+      "books": [
+       {
+        "book": "Bovada",
+        "odds": -105
+       }
+      ],
+      "pick": "Under 6.5"
+     }
+    ],
+    "sources": [],
+    "sport": "NHL",
+    "time": "9:00 PM"
+   },
+   "m-2026-11-03-ana-van": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "explain": "No independent model probability is published for this game, so the engine has only the market to go on and cannot find an edge on its own. Vancouver’s 1–11–1 slump is real but already in the price.",
+    "game": "Ducks @ Canucks",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "boardId": "2026-11-03-06",
+      "books": [
+       {
+        "book": "Bovada",
+        "odds": -165
+       },
+       {
+        "book": "Sports Gambling Podcast",
+        "odds": -148
+       }
+      ],
+      "pick": "Ducks ML"
+     },
+     {
+      "books": [
+       {
+        "book": "Bovada",
+        "odds": 145
+       }
+      ],
+      "pick": "Canucks ML"
+     }
+    ],
+    "sources": [],
+    "sport": "NHL",
+    "time": "9:00 PM"
+   },
+   "m-2026-11-03-car-nsh": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Hurricanes @ Predators",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "boardId": "2026-11-03-13",
+      "books": [
+       {
+        "book": "LetsBetMD",
+        "odds": -167
+       },
+       {
+        "book": "1xBet",
+        "odds": -161
+       },
+       {
+        "book": "22Bet",
+        "odds": -169
+       }
+      ],
+      "pick": "Hurricanes ML"
+     },
+     {
+      "books": [
+       {
+        "book": "LetsBetMD",
+        "odds": 140
+       },
+       {
+        "book": "1xBet",
+        "odds": 141
+       },
+       {
+        "book": "22Bet",
+        "odds": 136
+       }
+      ],
+      "pick": "Predators ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 63,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "8:00 PM"
+   },
+   "m-2026-11-03-col-cbj": {
+    "adjustments": [
+     {
+      "delta": 1.5,
+      "evidence": "Played last night; NHL teams on the second night of a road back-to-back underperform their usual win rate.",
+      "label": "Colorado on the road half of a back-to-back",
+      "priced": "partly",
+      "sd": 1.5,
+      "side": 0
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Avalanche @ Blue Jackets",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "boardId": "2026-11-03-03",
+      "books": [],
+      "pick": "Blue Jackets ML"
+     },
+     {
+      "books": [],
+      "pick": "Avalanche ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 45.2,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-03-dal-wsh": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Stars @ Capitals",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "boardId": "2026-11-03-14",
+      "books": [
+       {
+        "book": "LetsBetMD",
+        "odds": -105
+       }
+      ],
+      "pick": "Stars ML"
+     },
+     {
+      "books": [
+       {
+        "book": "LetsBetMD",
+        "odds": -114
+       }
+      ],
+      "pick": "Capitals ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 50,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-03-det-tb": {
+    "adjustments": [
+     {
+      "delta": 1.5,
+      "evidence": "Played last night; NHL teams on the second night of a road back-to-back underperform their usual win rate.",
+      "label": "Detroit on the road half of a back-to-back",
+      "priced": "partly",
+      "sd": 1.5,
+      "side": 0
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Red Wings @ Lightning",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "boardId": "2026-11-03-02",
+      "books": [],
+      "pick": "Lightning ML"
+     },
+     {
+      "books": [],
+      "pick": "Red Wings ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 69.2,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-03-edm-nj": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "explain": "SportRadar has New Jersey a few points stronger than the market. Several betting outlets are tipping Edmonton, which may be pulling the price toward the Oilers.",
+    "game": "Oilers @ Devils",
+    "market": "Moneyline",
+    "news": [
+     "Bovada’s quote (Devils +110 / Oilers −130) contradicts every other book and was excluded as a likely data error."
+    ],
+    "sides": [
+     {
+      "boardId": "2026-11-03-05",
+      "books": [
+       {
+        "book": "LetsBetMD",
+        "odds": -122
+       },
+       {
+        "book": "1xBet",
+        "odds": -119
+       }
+      ],
+      "pick": "Devils ML"
+     },
+     {
+      "boardId": "2026-11-03-08",
+      "books": [
+       {
+        "book": "LetsBetMD",
+        "odds": 102
+       },
+       {
+        "book": "1xBet",
+        "odds": 105
+       }
+      ],
+      "pick": "Oilers ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 57.6,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:30 PM"
+   },
+   "m-2026-11-03-min-phi": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Wild @ Flyers",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "boardId": "2026-11-03-04",
+      "books": [],
+      "pick": "Wild ML"
+     },
+     {
+      "books": [],
+      "pick": "Flyers ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 61.2,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-03-stl-nyr": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Blues @ Rangers",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "boardId": "2026-11-03-11",
+      "books": [
+       {
+        "book": "Bovada",
+        "odds": -125
+       }
+      ],
+      "pick": "Rangers ML"
+     },
+     {
+      "books": [
+       {
+        "book": "Bovada",
+        "odds": 105
+       }
+      ],
+      "pick": "Blues ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 51.8,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-03-uta-tor-tot": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Mammoth @ Maple Leafs",
+    "market": "Total",
+    "sides": [
+     {
+      "boardId": "2026-11-03-10",
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": -124
+       }
+      ],
+      "pick": "Over 6.5"
+     },
+     {
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": 102
+       }
+      ],
+      "pick": "Under 6.5"
+     }
+    ],
+    "sources": [],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-03-uta-tor": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Mammoth @ Maple Leafs",
+    "h2h": {
+     "meetings": [
+      {
+       "s": "’26 UTA 5–4",
+       "w": "opp"
+      },
+      {
+       "s": "TOR home 2–0–0",
+       "w": "pick"
+      }
+     ],
+     "summary": "Utah won the first meeting this season 5–4. Toronto has never lost at home to the Utah franchise (2–0–0).",
+     "verdict": "mixed"
+    },
+    "market": "Moneyline",
+    "news": [
+     "Toronto is without John Tavares, Kirill Marchenko, Max Domi and Miles Wood."
+    ],
+    "sides": [
+     {
+      "boardId": "2026-11-03-09",
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": 115
+       },
+       {
+        "book": "LetsBetMD",
+        "odds": -105
+       },
+       {
+        "book": "1xBet",
+        "odds": 100
+       },
+       {
+        "book": "DraftKings",
+        "odds": 110
+       }
+      ],
+      "pick": "Maple Leafs ML"
+     },
+     {
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": -138
+       },
+       {
+        "book": "LetsBetMD",
+        "odds": -118
+       },
+       {
+        "book": "1xBet",
+        "odds": -112
+       },
+       {
+        "book": "DraftKings",
+        "odds": -125
+       }
+      ],
+      "pick": "Mammoth ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 45.7,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-03-vgk-pit": {
+    "adjustments": [
+     {
+      "delta": 0.5,
+      "evidence": "Played in Boston last night.",
+      "label": "Vegas on the road half of a back-to-back",
+      "priced": "mostly: the line moved from Pittsburgh +102/+140 to −108",
+      "sd": 1.5,
+      "side": 0
+     },
+     {
+      "delta": 0.5,
+      "evidence": "Pittsburgh has won its last five home games against Vegas; Vegas has won its last five home games against Pittsburgh.",
+      "label": "Home team has won the last 10 meetings",
+      "priced": "mostly",
+      "sd": 2,
+      "side": 0
+     }
+    ],
+    "capturedAt": "2026-11-03T09:00:00Z",
+    "date": "2026-11-03",
+    "explain": "Two books disagree sharply on this game: one has Pittsburgh at +102, another at +140. The engine blends their no-vig prices with SportRadar’s near coin-flip and adds a small, uncertain bump for Vegas playing a road back-to-back. At +140 the bet stays positive even at the pessimistic end of the interval; at +102 it does not.",
+    "game": "Golden Knights @ Penguins",
+    "h2h": {
+     "meetings": [
+      {
+       "d": "at Vegas",
+       "s": "Oct ’26 VGK 6–2",
+       "w": "opp"
+      },
+      {
+       "d": "at Vegas",
+       "s": "Mar ’26 VGK 6–2",
+       "w": "opp"
+      },
+      {
+       "d": "at Pittsburgh",
+       "s": "Mar ’26 PIT 5–0",
+       "w": "pick"
+      },
+      {
+       "d": "at Pittsburgh",
+       "s": "Mar ’25 PIT 3–2 OT",
+       "w": "pick"
+      },
+      {
+       "d": "at Pittsburgh",
+       "s": "Nov ’23 PIT 3–0",
+       "w": "pick"
+      },
+      {
+       "d": "at Pittsburgh",
+       "s": "Dec ’22 PIT 4–3",
+       "w": "pick"
+      },
+      {
+       "d": "at Pittsburgh",
+       "s": "Mar ’22 PIT 5–2",
+       "w": "pick"
+      }
+     ],
+     "summary": "The home team has won the last 10 meetings, including Pittsburgh’s last five at home. Vegas won the last two, 6–2 and 6–2, both in Vegas.",
+     "verdict": "mixed"
+    },
+    "market": "Moneyline",
+    "news": [
+     "Pittsburgh is 4–1–1 at home and 1–6–1 on the road; Vegas has lost five of its last six.",
+     "72% of bets at DraftKings are on Vegas."
+    ],
+    "sides": [
+     {
+      "boardId": "2026-11-03-01",
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -108
+       },
+       {
+        "book": "DocSports-listed",
+        "odds": -106
+       }
+      ],
+      "pick": "Penguins ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -112
+       },
+       {
+        "book": "DocSports-listed",
+        "odds": -112
+       }
+      ],
+      "pick": "Golden Knights ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 49,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     },
+     {
+      "name": "Novig prediction-market price (information only, not bettable in Ontario)",
+      "p": 51,
+      "sd": 3,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM",
+    "warnings": [
+     "The +140 shown earlier came from an offshore book that isn’t available in Ontario and was likely stale. The Ontario price is −108, and at that price the edge is gone: the market has already moved to account for Vegas’s back-to-back.",
+     "Vegas is much stronger on underlying numbers: 55.1% of expected goals at 5-on-5 vs Pittsburgh’s 51.8%, and allows the 3rd-fewest expected goals against."
+    ]
+   },
+   "m-2026-11-03-wpg-mtl": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "date": "2026-11-03",
+    "game": "Jets @ Canadiens",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "boardId": "2026-11-03-12",
+      "books": [
+       {
+        "book": "1xBet",
+        "odds": -167
+       },
+       {
+        "book": "22Bet",
+        "odds": -175
+       }
+      ],
+      "pick": "Canadiens ML"
+     },
+     {
+      "books": [
+       {
+        "book": "1xBet",
+        "odds": 146
+       },
+       {
+        "book": "22Bet",
+        "odds": 141
+       }
+      ],
+      "pick": "Jets ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 62.9,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-ana-edm": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Ducks @ Oilers",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 154
+       }
+      ],
+      "pick": "Ducks ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -185
+       }
+      ],
+      "pick": "Oilers ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 37.3,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "8:00 PM"
+   },
+   "m-2026-11-05-bos-pit": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Bruins @ Penguins",
+    "market": "Moneyline",
+    "news": [
+     "Malkin returns for Pittsburgh after missing two games.",
+     "Swayman starts for Boston; Silovs for Pittsburgh."
+    ],
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -108
+       }
+      ],
+      "pick": "Bruins ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -112
+       }
+      ],
+      "pick": "Penguins ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 50,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-car-nyi": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Hurricanes @ Islanders",
+    "market": "Moneyline",
+    "news": [
+     "Varlamov starts for the Islanders in place of Sorokin.",
+     "The Islanders have the fewest high-danger shots in the NHL."
+    ],
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -180
+       }
+      ],
+      "pick": "Hurricanes ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 150
+       }
+      ],
+      "pick": "Islanders ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 62.9,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-chi-tb": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Blackhawks @ Lightning",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 330
+       }
+      ],
+      "pick": "Blackhawks ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -425
+       }
+      ],
+      "pick": "Lightning ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 19.4,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-dal-cbj": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Stars @ Blue Jackets",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -130
+       }
+      ],
+      "pick": "Stars ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 110
+       }
+      ],
+      "pick": "Blue Jackets ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 53.8,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-jax-bal": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Jaguars @ Ravens",
+    "market": "Moneyline",
+    "news": [
+     "Baltimore starts undrafted rookie Joe Fagnano; Jackson (thumb) and Huntley (toe) are out.",
+     "Jaguars DT DaVon Hamilton is out for the season; RB Bhayshul Tuten is a game-time decision."
+    ],
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "Market consensus",
+        "odds": -510
+       }
+      ],
+      "pick": "Jaguars ML"
+     },
+     {
+      "books": [
+       {
+        "book": "Market consensus",
+        "odds": 390
+       }
+      ],
+      "pick": "Ravens ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 81.9,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NFL",
+    "time": "8:15 PM",
+    "warnings": [
+     "Spreads range from Jaguars −9.5 (FanDuel, bet365) to −10.5 (Hard Rock Bet): if you like Baltimore, +10.5 at Hard Rock is the best Ontario number."
+    ]
+   },
+   "m-2026-11-05-nsh-col": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Predators @ Avalanche",
+    "market": "Moneyline",
+    "news": [
+     "Blackwood starts for Colorado after allowing 3 goals on 15 shots in relief Tuesday."
+    ],
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 180
+       }
+      ],
+      "pick": "Predators ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -218
+       }
+      ],
+      "pick": "Avalanche ML"
+     }
+    ],
+    "sources": [],
+    "sport": "NHL",
+    "time": "9:30 PM"
+   },
+   "m-2026-11-05-phi-nyr": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Flyers @ Rangers",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 124
+       }
+      ],
+      "pick": "Flyers ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -148
+       }
+      ],
+      "pick": "Rangers ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 43.1,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-stl-nj": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Blues @ Devils",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 170
+       }
+      ],
+      "pick": "Blues ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -205
+       }
+      ],
+      "pick": "Devils ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 34.9,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-uta-mtl": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Mammoth @ Canadiens",
+    "market": "Moneyline",
+    "news": [
+     "Montreal’s Jacob Fowler is second in the NHL in goals saved above expected (+9.8); Utah’s .866 team save % ranks 30th."
+    ],
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -122
+       }
+      ],
+      "pick": "Mammoth ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 102
+       }
+      ],
+      "pick": "Canadiens ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 52.3,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-van-wpg": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Canucks @ Jets",
+    "market": "Moneyline",
+    "news": [
+     "Only 6% of moneyline bets are on Vancouver, but 81% of the money: the biggest split on the slate."
+    ],
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 180
+       }
+      ],
+      "pick": "Canucks ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -218
+       }
+      ],
+      "pick": "Jets ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 34.6,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "m-2026-11-05-vgk-det": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Golden Knights @ Red Wings",
+    "market": "Moneyline",
+    "sides": [
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": -142
+       }
+      ],
+      "pick": "Golden Knights ML"
+     },
+     {
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 120
+       }
+      ],
+      "pick": "Red Wings ML"
+     }
+    ],
+    "sources": [
+     {
+      "name": "SportRadar pregame model",
+      "p": 57.1,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM"
+   },
+   "p-2026-11-03-arvidsson": {
+    "adjustments": [
+     {
+      "delta": -1,
+      "evidence": "Detroit played in Florida last night; tired teams generate fewer chances.",
+      "label": "Road back-to-back",
+      "priced": "partly",
+      "sd": 1.5,
+      "side": 0
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Red Wings @ Lightning",
+    "line": "Anytime goal",
+    "market": "Prop",
+    "news": [
+     "Detroit is on the road half of a back-to-back after winning 5–3 in Florida."
+    ],
+    "opp": "Lightning",
+    "player": "Viktor Arvidsson",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x01",
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": 230
+       }
+      ],
+      "pick": "Viktor Arvidsson anytime goal"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dimers player model (10,000 simulations)",
+      "p": 36.2,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "team": "Red Wings",
+    "warnings": [
+     "My earlier ranking had Arvidsson as the top prop without accounting for Detroit’s back-to-back."
+    ]
+   },
+   "p-2026-11-03-boeser": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Ducks @ Canucks",
+    "line": "Anytime goal",
+    "market": "Prop",
+    "opp": "Ducks",
+    "player": "Brock Boeser",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x07",
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 195
+       }
+      ],
+      "pick": "Brock Boeser anytime goal"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dimers player model (10,000 simulations)",
+      "p": 36,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "team": "Canucks"
+   },
+   "p-2026-11-03-boldy": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Wild @ Flyers",
+    "line": "Anytime goal",
+    "market": "Prop",
+    "modelNote": "Dimers’ article lists 41.3% in its write-up and 40.6% in its summary table; the engine uses 41.3%.",
+    "news": [
+     "Leads Minnesota forwards in shots on goal; shot models projected about 3.4 shots per game on Sunday."
+    ],
+    "opp": "Flyers",
+    "player": "Matt Boldy",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x05",
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": 160
+       }
+      ],
+      "pick": "Matt Boldy anytime goal"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dimers player model (10,000 simulations)",
+      "p": 41.3,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "stats": [
+     [
+      "Goals / GP",
+      "6 / 15"
+     ],
+     [
+      "Shots per game",
+      "4.3"
+     ],
+     [
+      "TOI",
+      "21:42"
+     ]
+    ],
+    "team": "Wild"
+   },
+   "p-2026-11-03-caufield": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Jets @ Canadiens",
+    "line": "Anytime goal",
+    "market": "Prop",
+    "opp": "Jets",
+    "player": "Cole Caufield",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x06",
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 120
+       }
+      ],
+      "pick": "Cole Caufield anytime goal"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dimers player model (10,000 simulations)",
+      "p": 46.8,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "team": "Canadiens"
+   },
+   "p-2026-11-03-connor": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Jets @ Canadiens",
+    "line": "Anytime goal",
+    "market": "Prop",
+    "opp": "Canadiens",
+    "player": "Kyle Connor",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x03",
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": 180
+       }
+      ],
+      "pick": "Kyle Connor anytime goal"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dimers player model (10,000 simulations)",
+      "p": 40.6,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "team": "Jets"
+   },
+   "p-2026-11-03-debrincat": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Red Wings @ Lightning",
+    "line": "Anytime goal",
+    "market": "Prop",
+    "news": [
+     "Detroit is on the road half of a back-to-back after winning 5–3 in Florida."
+    ],
+    "opp": "Lightning",
+    "player": "Alex DeBrincat",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x04",
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": 200
+       }
+      ],
+      "pick": "Alex DeBrincat anytime goal"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dimers player model (10,000 simulations)",
+      "p": 37.7,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "team": "Red Wings"
+   },
+   "p-2026-11-03-nylander": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Mammoth @ Maple Leafs",
+    "line": "Anytime goal",
+    "market": "Prop",
+    "news": [
+     "Tavares, Marchenko, Domi and Wood are out for Toronto."
+    ],
+    "opp": "Mammoth",
+    "player": "William Nylander",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x02",
+      "books": [
+       {
+        "book": "FanDuel",
+        "odds": 175
+       }
+      ],
+      "pick": "William Nylander anytime goal"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dimers player model (10,000 simulations)",
+      "p": 41.9,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "team": "Maple Leafs",
+    "warnings": [
+     "Tavares is out, which should push more top-six minutes to Nylander. It’s tempting to add that as a bump, but Dimers’ model already sees the lineup, so adding it again would double-count. Without the bump, the edge doesn’t survive the low end."
+    ]
+   },
+   "p-2026-11-03-stone": {
+    "adjustments": [],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "game": "Golden Knights @ Penguins",
+    "line": "Anytime goal",
+    "market": "Prop",
+    "news": [
+     "Vegas is on the road half of a back-to-back after losing 3–2 in Boston."
+    ],
+    "opp": "Penguins",
+    "player": "Mark Stone",
+    "sides": [
+     {
+      "boardId": "2026-11-03-x08",
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 185
+       }
+      ],
+      "pick": "Mark Stone anytime goal"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dimers player model (10,000 simulations)",
+      "p": 36.8,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "team": "Golden Knights"
+   },
+   "p-2026-11-05-kadri": {
+    "adjustments": [],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "game": "Predators @ Avalanche",
+    "line": "3+ shots on goal",
+    "market": "Prop",
+    "opp": "Predators",
+    "player": "Nazem Kadri",
+    "sides": [
+     {
+      "boardId": "2026-11-05-k1",
+      "books": [
+       {
+        "book": "DraftKings",
+        "odds": 125
+       }
+      ],
+      "pick": "Nazem Kadri 3+ shots"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Action Network projection 2.76 shots → P(3+), Poisson",
+      "p": 52.1,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     },
+     {
+      "name": "Season average 2.5 shots → P(3+), Poisson",
+      "p": 45.6,
+      "sd": 5,
+      "side": 0,
+      "verified": true
+     }
+    ],
+    "sport": "NHL",
+    "stats": [
+     [
+      "Shots per game",
+      "2.5"
+     ],
+     [
+      "Projection",
+      "2.76"
+     ]
+    ],
+    "team": "Avalanche",
+    "time": "9:30 PM",
+    "warnings": [
+     "The projection is above his season average; blending the two cuts the edge roughly in half."
+    ]
+   }
+  },
+  "games": {
+   "nba-2026-11-02-atl-ind": {
+    "away": "Atlanta Hawks",
+    "awayAbbr": "ATL",
+    "awayNick": "Hawks",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Indiana Pacers",
+    "homeAbbr": "IND",
+    "homeNick": "Pacers",
+    "score": {
+     "away": 108,
+     "home": 104
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T00:30:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-bkn-nyk": {
+    "away": "Brooklyn Nets",
+    "awayAbbr": "BKN",
+    "awayNick": "Nets",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "New York Knicks",
+    "homeAbbr": "NYK",
+    "homeNick": "Knicks",
+    "score": {
+     "away": 90,
+     "home": 103
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T00:30:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-bos-hou": {
+    "away": "Boston Celtics",
+    "awayAbbr": "BOS",
+    "awayNick": "Celtics",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Houston Rockets",
+    "homeAbbr": "HOU",
+    "homeNick": "Rockets",
+    "score": {
+     "away": 93,
+     "home": 109
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T01:30:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-chi-phi": {
+    "away": "Chicago Bulls",
+    "awayAbbr": "CHI",
+    "awayNick": "Bulls",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Philadelphia 76ers",
+    "homeAbbr": "PHI",
+    "homeNick": "76ers",
+    "score": {
+     "away": 107,
+     "home": 126
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T00:30:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-det-cha": {
+    "away": "Detroit Pistons",
+    "awayAbbr": "DET",
+    "awayNick": "Pistons",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Charlotte Hornets",
+    "homeAbbr": "CHA",
+    "homeNick": "Hornets",
+    "score": {
+     "away": 124,
+     "home": 91
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T00:30:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-mia-lal": {
+    "away": "Miami Heat",
+    "awayAbbr": "MIA",
+    "awayNick": "Heat",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Los Angeles Lakers",
+    "homeAbbr": "LAL",
+    "homeNick": "Lakers",
+    "score": {
+     "away": 117,
+     "home": 138
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T03:00:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-mil-min": {
+    "away": "Milwaukee Bucks",
+    "awayAbbr": "MIL",
+    "awayNick": "Bucks",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Minnesota Timberwolves",
+    "homeAbbr": "MIN",
+    "homeNick": "Timberwolves",
+    "score": {
+     "away": 100,
+     "home": 112
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T01:00:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-nop-mem": {
+    "away": "New Orleans Pelicans",
+    "awayAbbr": "NOP",
+    "awayNick": "Pelicans",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Memphis Grizzlies",
+    "homeAbbr": "MEM",
+    "homeNick": "Grizzlies",
+    "score": {
+     "away": 135,
+     "home": 134
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T01:00:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-okc-cle": {
+    "away": "Oklahoma City Thunder",
+    "awayAbbr": "OKC",
+    "awayNick": "Thunder",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Cleveland Cavaliers",
+    "homeAbbr": "CLE",
+    "homeNick": "Cavaliers",
+    "score": {
+     "away": 117,
+     "home": 112
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T00:00:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-phx-gsw": {
+    "away": "Phoenix Suns",
+    "awayAbbr": "PHX",
+    "awayNick": "Suns",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Golden State Warriors",
+    "homeAbbr": "GSW",
+    "homeNick": "Warriors",
+    "score": {
+     "away": 113,
+     "home": 116
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T03:00:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-por-den": {
+    "away": "Portland Trail Blazers",
+    "awayAbbr": "POR",
+    "awayNick": "Trail Blazers",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Denver Nuggets",
+    "homeAbbr": "DEN",
+    "homeNick": "Nuggets",
+    "score": {
+     "away": 118,
+     "home": 110
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T02:00:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-sac-dal": {
+    "away": "Sacramento Kings",
+    "awayAbbr": "SAC",
+    "awayNick": "Kings",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Dallas Mavericks",
+    "homeAbbr": "DAL",
+    "homeNick": "Mavericks",
+    "score": {
+     "away": 115,
+     "home": 100
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T01:00:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-tor-lac": {
+    "away": "Toronto Raptors",
+    "awayAbbr": "TOR",
+    "awayNick": "Raptors",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "LA Clippers",
+    "homeAbbr": "LAC",
+    "homeNick": "Clippers",
+    "score": {
+     "away": 125,
+     "home": 118
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T03:00:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-uta-sas": {
+    "away": "Utah Jazz",
+    "awayAbbr": "UTA",
+    "awayNick": "Jazz",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "San Antonio Spurs",
+    "homeAbbr": "SAS",
+    "homeNick": "Spurs",
+    "score": {
+     "away": 97,
+     "home": 119
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T01:30:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-02-was-orl": {
+    "away": "Washington Wizards",
+    "awayAbbr": "WAS",
+    "awayNick": "Wizards",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Orlando Magic",
+    "homeAbbr": "ORL",
+    "homeNick": "Magic",
+    "score": {
+     "away": 103,
+     "home": 94
+    },
+    "sport": "NBA",
+    "start": "2026-11-03T00:30:00Z",
+    "status": "final"
+   },
+   "nba-2026-11-05-mia-gsw": {
+    "away": "Miami Heat",
+    "awayAbbr": "MIA",
+    "awayNick": "Heat",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Golden State Warriors",
+    "homeAbbr": "GSW",
+    "homeNick": "Warriors",
+    "sport": "NBA",
+    "start": "2026-11-06T03:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 39.6,
+     "home": 60.4
+    }
+   },
+   "nba-2026-11-05-orl-phx": {
+    "away": "Orlando Magic",
+    "awayAbbr": "ORL",
+    "awayNick": "Magic",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Phoenix Suns",
+    "homeAbbr": "PHX",
+    "homeNick": "Suns",
+    "sport": "NBA",
+    "start": "2026-11-06T02:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 48.1,
+     "home": 51.9
+    }
+   },
+   "ncaab-2026-11-03-clev-mizz": {
+    "away": "Cleveland State",
+    "awayAbbr": "CLEV",
+    "awayNick": "Cleveland State",
+    "capturedAt": "2026-11-03T08:00:00Z",
+    "date": "2026-11-03",
+    "home": "Missouri",
+    "homeAbbr": "MIZZ",
+    "homeNick": "Missouri",
+    "note": "Win probability from DRatings.",
+    "sport": "NCAAB",
+    "start": "2026-11-04T01:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 2.4,
+     "home": 97.6
+    }
+   },
+   "ncaab-2026-11-03-drex-uva": {
+    "away": "Drexel",
+    "awayAbbr": "DREX",
+    "awayNick": "Drexel",
+    "capturedAt": "2026-11-03T08:00:00Z",
+    "date": "2026-11-03",
+    "home": "Virginia",
+    "homeAbbr": "UVA",
+    "homeNick": "Virginia",
+    "note": "Win probability from DRatings.",
+    "sport": "NCAAB",
+    "start": "2026-11-04T00:30:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 3,
+     "home": 97
+    }
+   },
+   "ncaab-2026-11-03-man-uk": {
+    "away": "Manhattan",
+    "awayAbbr": "MAN",
+    "awayNick": "Manhattan",
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "home": "Kentucky",
+    "homeAbbr": "UK",
+    "homeNick": "Kentucky",
+    "note": "No 2026-27 records yet; season opener.",
+    "sport": "NCAAB",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "scheduled"
+   },
+   "ncaab-2026-11-03-sdsu-ksu": {
+    "away": "South Dakota State",
+    "awayAbbr": "SDST",
+    "awayNick": "South Dakota State",
+    "capturedAt": "2026-11-03T08:00:00Z",
+    "date": "2026-11-03",
+    "home": "Kansas State",
+    "homeAbbr": "KSU",
+    "homeNick": "Kansas State",
+    "note": "Win probability from DRatings.",
+    "sport": "NCAAB",
+    "start": "2026-11-04T01:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 15,
+     "home": 85
+    }
+   },
+   "ncaaf-2026-11-03-buf-moh": {
+    "away": "Buffalo",
+    "awayAbbr": "BUFF",
+    "awayNick": "Buffalo",
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "home": "Miami (OH)",
+    "homeAbbr": "M-OH",
+    "homeNick": "Miami (OH)",
+    "ot": "OT",
+    "score": {
+     "away": 34,
+     "home": 31
+    },
+    "sport": "NCAAF",
+    "start": "2026-11-04T01:00:00Z",
+    "status": "final",
+    "title": "MACtion",
+    "wp": {
+     "away": 26.6,
+     "home": 73.4
+    }
+   },
+   "ncaaf-2026-11-03-ohio-akr": {
+    "away": "Ohio",
+    "awayAbbr": "OHIO",
+    "awayNick": "Ohio",
+    "awayRec": "6–2",
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "date": "2026-11-03",
+    "home": "Akron",
+    "homeAbbr": "AKR",
+    "homeNick": "Akron",
+    "homeRec": "1–7",
+    "score": {
+     "away": 28,
+     "home": 20
+    },
+    "sport": "NCAAF",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "title": "MACtion",
+    "wp": {
+     "away": 81,
+     "home": 19
+    }
+   },
+   "nfl-2026-11-02-chi-sea": {
+    "away": "Chicago Bears",
+    "awayAbbr": "CHI",
+    "awayNick": "Bears",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Seattle Seahawks",
+    "homeAbbr": "SEA",
+    "homeNick": "Seahawks",
+    "score": {
+     "away": 34,
+     "home": 17
+    },
+    "sport": "NFL",
+    "start": "2026-11-03T01:15:00Z",
+    "status": "final",
+    "title": "Monday Night Football"
+   },
+   "nfl-2026-11-05-jax-bal": {
+    "away": "Jacksonville Jaguars",
+    "awayAbbr": "JAX",
+    "awayNick": "Jaguars",
+    "awayRec": "5–2",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Baltimore Ravens",
+    "homeAbbr": "BAL",
+    "homeNick": "Ravens",
+    "homeRec": "4–4",
+    "note": "Lamar Jackson and Tyler Huntley out; undrafted rookie Joe Fagnano starts for Baltimore.",
+    "sport": "NFL",
+    "start": "2026-11-06T01:15:00Z",
+    "status": "scheduled",
+    "title": "Thursday Night Football",
+    "wp": {
+     "away": 81.9,
+     "home": 18.1
+    }
+   },
+   "nfl-2026-11-08-ari-sea": {
+    "away": "Arizona Cardinals",
+    "awayAbbr": "ARI",
+    "awayNick": "Cardinals",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Seattle Seahawks",
+    "homeAbbr": "SEA",
+    "homeNick": "Seahawks",
+    "sport": "NFL",
+    "start": "2026-11-08T21:25:00Z",
+    "status": "scheduled"
+   },
+   "nfl-2026-11-08-cin-atl": {
+    "away": "Cincinnati Bengals",
+    "awayAbbr": "CIN",
+    "awayNick": "Bengals",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Atlanta Falcons",
+    "homeAbbr": "ATL",
+    "homeNick": "Falcons",
+    "sport": "NFL",
+    "start": "2026-11-08T14:30:00Z",
+    "status": "scheduled",
+    "title": "London",
+    "wp": {
+     "away": 60.9,
+     "home": 39.1
+    }
+   },
+   "nfl-2026-11-08-cle-no": {
+    "away": "Cleveland Browns",
+    "awayAbbr": "CLE",
+    "awayNick": "Browns",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "New Orleans Saints",
+    "homeAbbr": "NO",
+    "homeNick": "Saints",
+    "sport": "NFL",
+    "start": "2026-11-08T18:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 40.9,
+     "home": 59.1
+    }
+   },
+   "nfl-2026-11-08-dal-ind": {
+    "away": "Dallas Cowboys",
+    "awayAbbr": "DAL",
+    "awayNick": "Cowboys",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Indianapolis Colts",
+    "homeAbbr": "IND",
+    "homeNick": "Colts",
+    "sport": "NFL",
+    "start": "2026-11-08T18:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 67.9,
+     "home": 32.1
+    }
+   },
+   "nfl-2026-11-08-den-car": {
+    "away": "Denver Broncos",
+    "awayAbbr": "DEN",
+    "awayNick": "Broncos",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Carolina Panthers",
+    "homeAbbr": "CAR",
+    "homeNick": "Panthers",
+    "sport": "NFL",
+    "start": "2026-11-08T18:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 57.5,
+     "home": 42.5
+    }
+   },
+   "nfl-2026-11-08-det-mia": {
+    "away": "Detroit Lions",
+    "awayAbbr": "DET",
+    "awayNick": "Lions",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Miami Dolphins",
+    "homeAbbr": "MIA",
+    "homeNick": "Dolphins",
+    "sport": "NFL",
+    "start": "2026-11-08T18:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 73.4,
+     "home": 26.6
+    }
+   },
+   "nfl-2026-11-08-gb-ne": {
+    "away": "Green Bay Packers",
+    "awayAbbr": "GB",
+    "awayNick": "Packers",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "New England Patriots",
+    "homeAbbr": "NE",
+    "homeNick": "Patriots",
+    "sport": "NFL",
+    "start": "2026-11-08T21:25:00Z",
+    "status": "scheduled"
+   },
+   "nfl-2026-11-08-hou-lac": {
+    "away": "Houston Texans",
+    "awayAbbr": "HOU",
+    "awayNick": "Texans",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Los Angeles Chargers",
+    "homeAbbr": "LAC",
+    "homeNick": "Chargers",
+    "sport": "NFL",
+    "start": "2026-11-08T21:05:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 69.2,
+     "home": 30.8
+    }
+   },
+   "nfl-2026-11-08-la-was": {
+    "away": "Los Angeles Rams",
+    "awayAbbr": "LA",
+    "awayNick": "Rams",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Washington Commanders",
+    "homeAbbr": "WAS",
+    "homeNick": "Commanders",
+    "sport": "NFL",
+    "start": "2026-11-08T18:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 67.2,
+     "home": 32.8
+    }
+   },
+   "nfl-2026-11-08-lv-sf": {
+    "away": "Las Vegas Raiders",
+    "awayAbbr": "LV",
+    "awayNick": "Raiders",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "San Francisco 49ers",
+    "homeAbbr": "SF",
+    "homeNick": "49ers",
+    "sport": "NFL",
+    "start": "2026-11-08T21:25:00Z",
+    "status": "scheduled"
+   },
+   "nfl-2026-11-08-nyg-phi": {
+    "away": "New York Giants",
+    "awayAbbr": "NYG",
+    "awayNick": "Giants",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Philadelphia Eagles",
+    "homeAbbr": "PHI",
+    "homeNick": "Eagles",
+    "sport": "NFL",
+    "start": "2026-11-08T18:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 61,
+     "home": 39
+    }
+   },
+   "nfl-2026-11-08-nyj-kc": {
+    "away": "New York Jets",
+    "awayAbbr": "NYJ",
+    "awayNick": "Jets",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Kansas City Chiefs",
+    "homeAbbr": "KC",
+    "homeNick": "Chiefs",
+    "sport": "NFL",
+    "start": "2026-11-08T18:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 18.4,
+     "home": 81.6
+    }
+   },
+   "nfl-2026-11-08-tb-chi": {
+    "away": "Tampa Bay Buccaneers",
+    "awayAbbr": "TB",
+    "awayNick": "Buccaneers",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-08",
+    "home": "Chicago Bears",
+    "homeAbbr": "CHI",
+    "homeNick": "Bears",
+    "sport": "NFL",
+    "start": "2026-11-09T01:20:00Z",
+    "status": "scheduled",
+    "title": "Sunday Night Football"
+   },
+   "nhl-2026-11-02-cgy-sj": {
+    "away": "Calgary Flames",
+    "awayAbbr": "CGY",
+    "awayNick": "Flames",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "San Jose Sharks",
+    "homeAbbr": "SJ",
+    "homeNick": "Sharks",
+    "score": {
+     "away": 2,
+     "home": 1
+    },
+    "sport": "NHL",
+    "start": "2026-11-03T02:00:00Z",
+    "status": "final"
+   },
+   "nhl-2026-11-02-col-chi": {
+    "away": "Colorado Avalanche",
+    "awayAbbr": "COL",
+    "awayNick": "Avalanche",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Chicago Blackhawks",
+    "homeAbbr": "CHI",
+    "homeNick": "Blackhawks",
+    "score": {
+     "away": 5,
+     "home": 2
+    },
+    "sport": "NHL",
+    "start": "2026-11-03T01:00:00Z",
+    "status": "final"
+   },
+   "nhl-2026-11-02-det-fla": {
+    "away": "Detroit Red Wings",
+    "awayAbbr": "DET",
+    "awayNick": "Red Wings",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Florida Panthers",
+    "homeAbbr": "FLA",
+    "homeNick": "Panthers",
+    "score": {
+     "away": 5,
+     "home": 3
+    },
+    "sport": "NHL",
+    "start": "2026-11-03T00:00:00Z",
+    "status": "final"
+   },
+   "nhl-2026-11-02-vgk-bos": {
+    "away": "Vegas Golden Knights",
+    "awayAbbr": "VGK",
+    "awayNick": "Golden Knights",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-02",
+    "home": "Boston Bruins",
+    "homeAbbr": "BOS",
+    "homeNick": "Bruins",
+    "score": {
+     "away": 2,
+     "home": 3
+    },
+    "sport": "NHL",
+    "start": "2026-11-03T00:00:00Z",
+    "status": "final"
+   },
+   "nhl-2026-11-03-ana-van": {
+    "away": "Anaheim Ducks",
+    "awayAbbr": "ANA",
+    "awayNick": "Ducks",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Vancouver Canucks",
+    "homeAbbr": "VAN",
+    "homeNick": "Canucks",
+    "note": "No pregame model probability published for this game.",
+    "score": {
+     "away": 5,
+     "home": 4
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T02:00:00Z",
+    "status": "final"
+   },
+   "nhl-2026-11-03-car-nsh": {
+    "away": "Carolina Hurricanes",
+    "awayAbbr": "CAR",
+    "awayNick": "Hurricanes",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Nashville Predators",
+    "homeAbbr": "NSH",
+    "homeNick": "Predators",
+    "score": {
+     "away": 1,
+     "home": 4
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T01:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 63,
+     "home": 37
+    }
+   },
+   "nhl-2026-11-03-col-cbj": {
+    "away": "Colorado Avalanche",
+    "awayAbbr": "COL",
+    "awayNick": "Avalanche",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Columbus Blue Jackets",
+    "homeAbbr": "CBJ",
+    "homeNick": "Blue Jackets",
+    "note": "Colorado on the road half of a back-to-back.",
+    "score": {
+     "away": 2,
+     "home": 7
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 54.8,
+     "home": 45.2
+    }
+   },
+   "nhl-2026-11-03-dal-wsh": {
+    "away": "Dallas Stars",
+    "awayAbbr": "DAL",
+    "awayNick": "Stars",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Washington Capitals",
+    "homeAbbr": "WSH",
+    "homeNick": "Capitals",
+    "score": {
+     "away": 6,
+     "home": 5
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 50,
+     "home": 50
+    }
+   },
+   "nhl-2026-11-03-det-tb": {
+    "away": "Detroit Red Wings",
+    "awayAbbr": "DET",
+    "awayNick": "Red Wings",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Tampa Bay Lightning",
+    "homeAbbr": "TB",
+    "homeNick": "Lightning",
+    "note": "Detroit on the road half of a back-to-back.",
+    "score": {
+     "away": 2,
+     "home": 4
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 30.8,
+     "home": 69.2
+    }
+   },
+   "nhl-2026-11-03-edm-nj": {
+    "away": "Edmonton Oilers",
+    "awayAbbr": "EDM",
+    "awayNick": "Oilers",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "New Jersey Devils",
+    "homeAbbr": "NJ",
+    "homeNick": "Devils",
+    "score": {
+     "away": 3,
+     "home": 4
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:30:00Z",
+    "status": "final",
+    "wp": {
+     "away": 42.4,
+     "home": 57.6
+    }
+   },
+   "nhl-2026-11-03-min-phi": {
+    "away": "Minnesota Wild",
+    "awayAbbr": "MIN",
+    "awayNick": "Wild",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Philadelphia Flyers",
+    "homeAbbr": "PHI",
+    "homeNick": "Flyers",
+    "score": {
+     "away": 4,
+     "home": 2
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 61.2,
+     "home": 38.8
+    }
+   },
+   "nhl-2026-11-03-stl-nyr": {
+    "away": "St. Louis Blues",
+    "awayAbbr": "STL",
+    "awayNick": "Blues",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "New York Rangers",
+    "homeAbbr": "NYR",
+    "homeNick": "Rangers",
+    "score": {
+     "away": 1,
+     "home": 3
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 48.2,
+     "home": 51.8
+    }
+   },
+   "nhl-2026-11-03-uta-tor": {
+    "away": "Utah Mammoth",
+    "awayAbbr": "UTA",
+    "awayNick": "Mammoth",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Toronto Maple Leafs",
+    "homeAbbr": "TOR",
+    "homeNick": "Maple Leafs",
+    "score": {
+     "away": 3,
+     "home": 2
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 54.3,
+     "home": 45.7
+    }
+   },
+   "nhl-2026-11-03-vgk-pit": {
+    "away": "Vegas Golden Knights",
+    "awayAbbr": "VGK",
+    "awayNick": "Golden Knights",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Pittsburgh Penguins",
+    "homeAbbr": "PIT",
+    "homeNick": "Penguins",
+    "note": "Vegas on the road half of a back-to-back.",
+    "score": {
+     "away": 3,
+     "home": 2
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 51,
+     "home": 49
+    }
+   },
+   "nhl-2026-11-03-wpg-mtl": {
+    "away": "Winnipeg Jets",
+    "awayAbbr": "WPG",
+    "awayNick": "Jets",
+    "capturedAt": "2026-11-03T06:30:00Z",
+    "date": "2026-11-03",
+    "home": "Montreal Canadiens",
+    "homeAbbr": "MTL",
+    "homeNick": "Canadiens",
+    "score": {
+     "away": 5,
+     "home": 4
+    },
+    "sport": "NHL",
+    "start": "2026-11-04T00:00:00Z",
+    "status": "final",
+    "wp": {
+     "away": 37.1,
+     "home": 62.9
+    }
+   },
+   "nhl-2026-11-05-ana-edm": {
+    "away": "Anaheim Ducks",
+    "awayAbbr": "ANA",
+    "awayNick": "Ducks",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Edmonton Oilers",
+    "homeAbbr": "EDM",
+    "homeNick": "Oilers",
+    "sport": "NHL",
+    "start": "2026-11-06T01:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 37.3,
+     "home": 62.7
+    }
+   },
+   "nhl-2026-11-05-bos-pit": {
+    "away": "Boston Bruins",
+    "awayAbbr": "BOS",
+    "awayNick": "Bruins",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Pittsburgh Penguins",
+    "homeAbbr": "PIT",
+    "homeNick": "Penguins",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 50,
+     "home": 50
+    }
+   },
+   "nhl-2026-11-05-car-nyi": {
+    "away": "Carolina Hurricanes",
+    "awayAbbr": "CAR",
+    "awayNick": "Hurricanes",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "New York Islanders",
+    "homeAbbr": "NYI",
+    "homeNick": "Islanders",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 62.9,
+     "home": 37.1
+    }
+   },
+   "nhl-2026-11-05-chi-tb": {
+    "away": "Chicago Blackhawks",
+    "awayAbbr": "CHI",
+    "awayNick": "Blackhawks",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Tampa Bay Lightning",
+    "homeAbbr": "TB",
+    "homeNick": "Lightning",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 19.4,
+     "home": 80.6
+    }
+   },
+   "nhl-2026-11-05-dal-cbj": {
+    "away": "Dallas Stars",
+    "awayAbbr": "DAL",
+    "awayNick": "Stars",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Columbus Blue Jackets",
+    "homeAbbr": "CBJ",
+    "homeNick": "Blue Jackets",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 53.8,
+     "home": 46.2
+    }
+   },
+   "nhl-2026-11-05-nsh-col": {
+    "away": "Nashville Predators",
+    "awayAbbr": "NSH",
+    "awayNick": "Predators",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Colorado Avalanche",
+    "homeAbbr": "COL",
+    "homeNick": "Avalanche",
+    "sport": "NHL",
+    "start": "2026-11-06T02:30:00Z",
+    "status": "scheduled"
+   },
+   "nhl-2026-11-05-phi-nyr": {
+    "away": "Philadelphia Flyers",
+    "awayAbbr": "PHI",
+    "awayNick": "Flyers",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "New York Rangers",
+    "homeAbbr": "NYR",
+    "homeNick": "Rangers",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 43.1,
+     "home": 56.9
+    }
+   },
+   "nhl-2026-11-05-stl-nj": {
+    "away": "St. Louis Blues",
+    "awayAbbr": "STL",
+    "awayNick": "Blues",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "New Jersey Devils",
+    "homeAbbr": "NJ",
+    "homeNick": "Devils",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 34.9,
+     "home": 65.1
+    }
+   },
+   "nhl-2026-11-05-uta-mtl": {
+    "away": "Utah Mammoth",
+    "awayAbbr": "UTA",
+    "awayNick": "Mammoth",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Montreal Canadiens",
+    "homeAbbr": "MTL",
+    "homeNick": "Canadiens",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 52.3,
+     "home": 47.7
+    }
+   },
+   "nhl-2026-11-05-van-wpg": {
+    "away": "Vancouver Canucks",
+    "awayAbbr": "VAN",
+    "awayNick": "Canucks",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Winnipeg Jets",
+    "homeAbbr": "WPG",
+    "homeNick": "Jets",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 34.6,
+     "home": 65.4
+    }
+   },
+   "nhl-2026-11-05-vgk-det": {
+    "away": "Vegas Golden Knights",
+    "awayAbbr": "VGK",
+    "awayNick": "Golden Knights",
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "date": "2026-11-05",
+    "home": "Detroit Red Wings",
+    "homeAbbr": "DET",
+    "homeNick": "Red Wings",
+    "sport": "NHL",
+    "start": "2026-11-06T00:00:00Z",
+    "status": "scheduled",
+    "wp": {
+     "away": 57.1,
+     "home": 42.9
+    }
+   }
+  },
+  "board": {
+   "2026-11-03-00": {
+    "date": "2026-11-03",
+    "headline": "11 NHL games, no NBA (election night). Detroit, Vegas and Colorado are all on the second night of a back-to-back. One play clears the playbook bar; the rest are leans, price triggers and passes, so you can see the whole map."
+   },
+   "2026-11-03-01": {
+    "book": "SportsBetting",
+    "books": [
+     {
+      "book": "DraftKings",
+      "odds": -108
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "SportRadar’s model has this a coin flip: Pittsburgh 49%, Vegas 51%.",
+     "Vegas lost 3–2 in Boston last night, so this is the road half of a back-to-back.",
+     "Prices range from +102 to +140 across books. At +140 that’s 7.3 points of edge; at +102 there’s none.",
+     "Tony’s Picks independently backs Pittsburgh’s rest-and-home edge."
+    ],
+    "date": "2026-11-03",
+    "explain": "This is a fatigue spot the market may be underpricing. SportRadar’s pregame model has the game essentially even, but Vegas played and lost in Boston last night and is now on the road for the second half of a back-to-back, while Pittsburgh is rested at home. At +140 the price implies only a 41.7% chance for Pittsburgh, so if the game really is close to a coin flip, the bet carries about 7 points of edge. The edge depends entirely on the price: at the +102 seen at another book there is none.",
+    "game": "Golden Knights @ Penguins",
+    "news": [
+     "Vegas lost 3–2 in Boston on Monday night, so tonight is a road back-to-back.",
+     "Pittsburgh is rested and at home."
+    ],
+    "note": "Withdrawn: the +140 was an offshore price not available in Ontario. At DraftKings Ontario −108 there is no edge.",
+    "odds": -108,
+    "order": 1,
+    "p": 49,
+    "pick": "Penguins ML",
+    "rel": 3,
+    "signals": [
+     "Fatigue",
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM",
+    "units": 0.5,
+    "verdict": "pass"
+   },
+   "2026-11-03-02": {
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "SportRadar gives Tampa 69.2%.",
+     "Detroit won 5–3 in Florida last night and is on the road for the second half of a back-to-back.",
+     "At −200 the break-even is 66.7%, so anything shorter than −200 kills the edge."
+    ],
+    "date": "2026-11-03",
+    "game": "Red Wings @ Lightning",
+    "news": [
+     "Detroit won 5–3 in Florida on Monday and plays the road half of a back-to-back."
+    ],
+    "note": "I couldn’t find a posted price. Check your book.",
+    "order": 2,
+    "p": 69,
+    "pick": "Lightning ML",
+    "rel": 3,
+    "signals": [
+     "Fatigue",
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "target": "−200",
+    "time": "7:00 PM",
+    "verdict": "trigger"
+   },
+   "2026-11-03-03": {
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "Colorado beat Chicago 5–2 last night; tonight is the back half of a road back-to-back.",
+     "SportRadar still has Colorado at 54.8%, so Columbus is 45.2%.",
+     "Books usually shade toward the Avs’ name; at +130 Columbus’s break-even is 43.5%."
+    ],
+    "date": "2026-11-03",
+    "game": "Avalanche @ Blue Jackets",
+    "news": [
+     "Colorado beat Chicago 5–2 on Monday; tonight is the road half of a back-to-back."
+    ],
+    "note": "Price not found. Worth it at +130 or longer.",
+    "order": 3,
+    "p": 45,
+    "pick": "Blue Jackets ML",
+    "rel": 2,
+    "signals": [
+     "Fatigue",
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "target": "+130",
+    "time": "7:00 PM",
+    "verdict": "trigger"
+   },
+   "2026-11-03-04": {
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "SportRadar: Minnesota 61.2%.",
+     "Minnesota rolled Washington 5–1 on Sunday and is rested.",
+     "Break-even at −140 is 58.3%."
+    ],
+    "date": "2026-11-03",
+    "game": "Wild @ Flyers",
+    "news": [
+     "Minnesota beat Washington 5–1 on Sunday and is rested."
+    ],
+    "note": "Price not found. Playable at −140 or better.",
+    "order": 4,
+    "p": 61,
+    "pick": "Wild ML",
+    "rel": 2,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "target": "−140",
+    "time": "7:00 PM",
+    "verdict": "trigger"
+   },
+   "2026-11-03-05": {
+    "book": "LetsBetMD",
+    "books": [
+     {
+      "book": "LetsBetMD",
+      "odds": -122
+     },
+     {
+      "book": "1xBet",
+      "odds": -119
+     },
+     {
+      "book": "Bovada",
+      "odds": 110
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "SportRadar has New Jersey at 57.6% vs 55% implied at −122.",
+     "Contrarian: at least three outlets list Edmonton as a best bet tonight, which may be pushing the price toward the Oilers.",
+     "Edge is about 2.6 points, just under the playbook’s 3-point bar."
+    ],
+    "date": "2026-11-03",
+    "game": "Oilers @ Devils",
+    "news": [
+     "Edmonton beat the Rangers 4–1 on Sunday; both teams rested.",
+     "Bovada’s +110 on New Jersey is an outlier against −119 to −122 elsewhere; possibly a data error in the source."
+    ],
+    "note": "Downgraded by the engine: after removing the books’ margin, the price matches the model.",
+    "odds": -122,
+    "order": 5,
+    "p": 58,
+    "pick": "Devils ML",
+    "rel": 2,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "7:30 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-06": {
+    "book": "Sports Gambling Podcast",
+    "books": [
+     {
+      "book": "Sports Gambling Podcast",
+      "odds": -148
+     },
+     {
+      "book": "Bovada",
+      "odds": -165
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "Vancouver is 1–11–1 in its last 13 and has lost five straight at home.",
+     "Anaheim is coming off a 6–3 win over Ottawa and is rested since Sunday.",
+     "Vancouver’s penalty kill is 66.7%, and the Ducks’ power play is top six.",
+     "Counterpoint: Tony’s Picks backs Vancouver at home on series history."
+    ],
+    "date": "2026-11-03",
+    "game": "Ducks @ Canucks",
+    "news": [
+     "Vancouver is 1–11–1 in its last 13 with five straight home losses.",
+     "Anaheim beat Ottawa 6–3 on Sunday."
+    ],
+    "note": "Edge about 2.3. Some books have −165; avoid that price.",
+    "odds": -148,
+    "order": 6,
+    "p": 62,
+    "pick": "Ducks ML",
+    "rel": 2,
+    "signals": [
+     "Matchup"
+    ],
+    "sport": "NHL",
+    "time": "9:00 PM",
+    "verdict": "lean"
+   },
+   "2026-11-03-07": {
+    "book": "Bovada",
+    "books": [
+     {
+      "book": "Bovada",
+      "odds": -115
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "Their first meeting finished 6–5 in overtime.",
+     "Ducks’ last four games: 11, 13, 9 and 9 total goals.",
+     "Vancouver’s PK is 66.7%, feeding Anaheim power plays."
+    ],
+    "date": "2026-11-03",
+    "game": "Ducks @ Canucks",
+    "note": "Downgraded by the engine: negative EV after removing the margin.",
+    "odds": -115,
+    "order": 7,
+    "p": 55,
+    "pick": "Ducks/Canucks Over 6.5",
+    "rel": 1,
+    "signals": [
+     "Matchup"
+    ],
+    "sport": "NHL",
+    "time": "9:00 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-08": {
+    "book": "LetsBetMD",
+    "books": [
+     {
+      "book": "LetsBetMD",
+      "odds": 102
+     },
+     {
+      "book": "1xBet",
+      "odds": 105
+     },
+     {
+      "book": "Bovada",
+      "odds": -130
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "The most popular pick on the board: multiple outlets have it as a best bet.",
+     "SportRadar has Edmonton at 42.4% against 49.5% implied, about 7 points of negative edge.",
+     "When the crowd and the model disagree this much, we side with the model or stay off."
+    ],
+    "date": "2026-11-03",
+    "game": "Oilers @ Devils",
+    "note": "Pass. Crowd pick, bad price.",
+    "odds": 102,
+    "order": 8,
+    "p": 42,
+    "pick": "Oilers ML",
+    "rel": 3,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "7:30 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-09": {
+    "book": "FanDuel",
+    "books": [
+     {
+      "book": "FanDuel",
+      "odds": 115
+     },
+     {
+      "book": "1xBet",
+      "odds": 100
+     },
+     {
+      "book": "LetsBetMD",
+      "odds": -105
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "Toronto is a home underdog to Utah.",
+     "SportRadar: Toronto 45.7% vs 46.5% implied. Fair price, no edge.",
+     "numberFire also leans Utah at 52.8%."
+    ],
+    "date": "2026-11-03",
+    "game": "Mammoth @ Maple Leafs",
+    "note": "Fan bet only.",
+    "odds": 115,
+    "order": 9,
+    "p": 46,
+    "pick": "Maple Leafs ML",
+    "rel": 3,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-10": {
+    "book": "FanDuel",
+    "books": [
+     {
+      "book": "FanDuel",
+      "odds": -124
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "rg.org lists the over as its best bet in this game.",
+     "At −124 the break-even is 55.4%, which is about where I’d set it."
+    ],
+    "date": "2026-11-03",
+    "game": "Mammoth @ Maple Leafs",
+    "note": "Priced right.",
+    "odds": -124,
+    "order": 10,
+    "p": 55,
+    "pick": "Mammoth/Leafs Over 6.5",
+    "rel": 1,
+    "signals": [
+     "Matchup"
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-11": {
+    "book": "Bovada",
+    "books": [
+     {
+      "book": "Bovada",
+      "odds": -125
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "Trend: Rangers have won 11 of their last 15 at home.",
+     "Model: SportRadar has it nearly even, 51.8% Rangers.",
+     "−125 implies 55.6%, so the trend is already priced in and then some."
+    ],
+    "date": "2026-11-03",
+    "game": "Blues @ Rangers",
+    "note": "Trend vs model; model wins.",
+    "odds": -125,
+    "order": 11,
+    "p": 52,
+    "pick": "Rangers ML",
+    "rel": 2,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-12": {
+    "book": "1xBet",
+    "books": [
+     {
+      "book": "1xBet",
+      "odds": -167
+     },
+     {
+      "book": "22Bet",
+      "odds": -175
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "SportRadar: Montreal 62.9% vs 62.5% implied.",
+     "rg.org suggests the regulation-win market instead of the moneyline."
+    ],
+    "date": "2026-11-03",
+    "game": "Jets @ Canadiens",
+    "note": "Dead-on price.",
+    "odds": -167,
+    "order": 12,
+    "p": 63,
+    "pick": "Canadiens ML",
+    "rel": 3,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-13": {
+    "book": "LetsBetMD",
+    "books": [
+     {
+      "book": "1xBet",
+      "odds": -161
+     },
+     {
+      "book": "LetsBetMD",
+      "odds": -167
+     },
+     {
+      "book": "22Bet",
+      "odds": -169
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "SportRadar: Carolina 63% vs 62.5% implied.",
+     "Carolina blanked Winnipeg 7–0 on Sunday."
+    ],
+    "date": "2026-11-03",
+    "game": "Hurricanes @ Predators",
+    "news": [
+     "Carolina blanked Winnipeg 7–0 on Sunday."
+    ],
+    "note": "Fair price.",
+    "odds": -167,
+    "order": 13,
+    "p": 63,
+    "pick": "Hurricanes ML",
+    "rel": 3,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "8:00 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-14": {
+    "book": "LetsBetMD",
+    "books": [
+     {
+      "book": "LetsBetMD",
+      "odds": -105
+     }
+    ],
+    "capturedAt": "2026-11-03T06:17:00Z",
+    "data": [
+     "SportRadar has it exactly 50/50.",
+     "Washington lost 5–1 to Minnesota on Sunday."
+    ],
+    "date": "2026-11-03",
+    "game": "Stars @ Capitals",
+    "news": [
+     "Washington lost 5–1 to Minnesota on Sunday."
+    ],
+    "note": "A coin flip priced like one.",
+    "odds": -105,
+    "order": 14,
+    "p": 50,
+    "pick": "Stars ML",
+    "rel": 2,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "7:00 PM",
+    "verdict": "pass"
+   },
+   "2026-11-03-x01": {
+    "book": "FanDuel",
+    "books": [
+     {
+      "book": "FanDuel",
+      "odds": 230
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 36.2% vs 30.3% implied at +230.",
+     "Detroit is on a road back-to-back, which can cut into minutes.",
+     "Single model source, so the interval is wide."
+    ],
+    "date": "2026-11-03",
+    "game": "Red Wings @ Lightning",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 230,
+    "order": 20,
+    "p": 36.2,
+    "pick": "Viktor Arvidsson anytime goal",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x02": {
+    "book": "FanDuel",
+    "books": [
+     {
+      "book": "FanDuel",
+      "odds": 175
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 41.9% vs 36.4% implied at +175.",
+     "Toronto is a home underdog to Utah."
+    ],
+    "date": "2026-11-03",
+    "game": "Mammoth @ Maple Leafs",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 175,
+    "order": 21,
+    "p": 41.9,
+    "pick": "William Nylander anytime goal",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x03": {
+    "book": "FanDuel",
+    "books": [
+     {
+      "book": "FanDuel",
+      "odds": 180
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 40.6% vs 35.7% implied at +180."
+    ],
+    "date": "2026-11-03",
+    "game": "Jets @ Canadiens",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 180,
+    "order": 22,
+    "p": 40.6,
+    "pick": "Kyle Connor anytime goal",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x04": {
+    "book": "FanDuel",
+    "books": [
+     {
+      "book": "FanDuel",
+      "odds": 200
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 37.7% vs 33.3% implied at +200.",
+     "Detroit on a road back-to-back."
+    ],
+    "date": "2026-11-03",
+    "game": "Red Wings @ Lightning",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 200,
+    "order": 23,
+    "p": 37.7,
+    "pick": "Alex DeBrincat anytime goal",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x05": {
+    "book": "FanDuel",
+    "books": [
+     {
+      "book": "FanDuel",
+      "odds": 160
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 41.3% vs 38.5% implied at +160.",
+     "4.3 shots per game, most among Wild forwards."
+    ],
+    "date": "2026-11-03",
+    "game": "Wild @ Flyers",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 160,
+    "order": 24,
+    "p": 41.3,
+    "pick": "Matt Boldy anytime goal",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x06": {
+    "book": "DraftKings",
+    "books": [
+     {
+      "book": "DraftKings",
+      "odds": 120
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 46.8% vs 45.5% implied at +120."
+    ],
+    "date": "2026-11-03",
+    "game": "Jets @ Canadiens",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 120,
+    "order": 25,
+    "p": 46.8,
+    "pick": "Cole Caufield anytime goal",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x07": {
+    "book": "DraftKings",
+    "books": [
+     {
+      "book": "DraftKings",
+      "odds": 195
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 36.0% vs 33.9% implied at +195."
+    ],
+    "date": "2026-11-03",
+    "game": "Ducks @ Canucks",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 195,
+    "order": 26,
+    "p": 36,
+    "pick": "Brock Boeser anytime goal",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x08": {
+    "book": "DraftKings",
+    "books": [
+     {
+      "book": "DraftKings",
+      "odds": 185
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 36.8% vs 35.1% implied at +185.",
+     "Vegas on a road back-to-back."
+    ],
+    "date": "2026-11-03",
+    "game": "Golden Knights @ Penguins",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 185,
+    "order": 27,
+    "p": 36.8,
+    "pick": "Mark Stone anytime goal",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NHL",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x09": {
+    "book": "Novig",
+    "books": [
+     {
+      "book": "Novig",
+      "odds": 100
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Novig even money is the best price available.",
+     "Three models disagree: Dimers 54% to cover, one fair line of −4.5, one computer line of −14."
+    ],
+    "date": "2026-11-03",
+    "game": "Buffalo @ Miami (OH)",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": 100,
+    "order": 28,
+    "p": 70.5,
+    "pick": "Miami (OH) −6.5",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NCAAF",
+    "time": "8:00 PM",
+    "verdict": "lean"
+   },
+   "2026-11-03-x10": {
+    "book": "Dimers-listed book",
+    "books": [
+     {
+      "book": "Dimers-listed book",
+      "odds": -110
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers’ top-rated play of the day (60% to cover).",
+     "Engine shrinks it toward 50% because huge opening-week spreads are where single models miss most."
+    ],
+    "date": "2026-11-03",
+    "game": "Arkansas-Pine Bluff @ Arkansas",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": -110,
+    "order": 29,
+    "p": 60,
+    "pick": "Arkansas-Pine Bluff +39.5",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NCAAB",
+    "time": "",
+    "verdict": "lean"
+   },
+   "2026-11-03-x11": {
+    "book": "Dimers-listed book",
+    "books": [
+     {
+      "book": "Dimers-listed book",
+      "odds": -105
+     }
+    ],
+    "capturedAt": "2026-11-03T07:10:00Z",
+    "data": [
+     "Dimers model 56% to cover.",
+     "Kentucky won last season’s opener by 26."
+    ],
+    "date": "2026-11-03",
+    "game": "Manhattan @ Kentucky",
+    "note": "Positive on average only; the edge doesn’t survive the low end of the interval.",
+    "odds": -105,
+    "order": 30,
+    "p": 56,
+    "pick": "Manhattan +32.5",
+    "rel": 1,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NCAAB",
+    "time": "7:00 PM",
+    "verdict": "lean"
+   },
+   "2026-11-03-x12": {
+    "book": "Caesars",
+    "books": [
+     {
+      "book": "Caesars",
+      "odds": -110
+     }
+    ],
+    "capturedAt": "2026-11-03T08:00:00Z",
+    "data": [
+     "Dimers 54% to cover; DRatings projects a 21-point Virginia win.",
+     "Two Tony’s Picks analysts also on Drexel."
+    ],
+    "date": "2026-11-03",
+    "game": "Drexel @ Virginia",
+    "note": "Final-three lean, tracked at 0 units.",
+    "odds": -110,
+    "order": 40,
+    "p": 53.5,
+    "pick": "Drexel +31.5",
+    "rel": 2,
+    "signals": [
+     "Model edge"
+    ],
+    "sport": "NCAAB",
+    "time": "7:30 PM",
+    "verdict": "lean"
+   },
+   "2026-11-05-k1": {
+    "book": "DraftKings",
+    "books": [
+     {
+      "book": "DraftKings",
+      "odds": 125
+     }
+    ],
+    "capturedAt": "2026-11-05T21:30:00Z",
+    "data": [
+     "Action Network projects 2.76 shots, a 7.6% edge on their numbers.",
+     "Season average is 2.5 shots; Nashville is a divisional opponent he sees often."
+    ],
+    "date": "2026-11-05",
+    "game": "Predators @ Avalanche",
+    "note": "Positive on average, not at the low end. Tracked at 0 units.",
+    "odds": 125,
+    "order": 1,
+    "p": 48.9,
+    "pick": "Nazem Kadri 3+ shots",
+    "rel": 2,
+    "signals": [
+     "Model edge",
+     "Volume trend"
+    ],
+    "sport": "NHL",
+    "time": "9:30 PM",
+    "verdict": "lean"
+   }
+  },
+  "intel": {
+   "2026-11-02": {
+    "date": "2026-11-02",
+    "headline": "Four teams are on the second night of a back-to-back (TOR, LAC, GSW, LAL). Late Clippers injury news is the biggest edge on the board.",
+    "items": [
+     {
+      "detail": "Hachimura (quad) and Derrick Jones Jr. (knee) ruled out at 6 PM. That’s 27 field-goal attempts from last night off the floor. Public models that lean Clippers likely ran before this.",
+      "tag": "Stale line",
+      "title": "Clippers lose Hachimura and Jones Jr."
+     },
+     {
+      "detail": "4-of-12 last night on normal volume and 7 assists. Role unchanged, more shots available tonight. Toronto’s defence is the counterweight.",
+      "tag": "Bounce-back",
+      "title": "Garland: cold night, same role"
+     },
+     {
+      "detail": "37 points but only 4 rebounds last night after 9+ in four straight. He played full minutes, so the role didn’t change. If his rebound line drops vs Phoenix, the over is worth a look.",
+      "tag": "Bounce-back",
+      "title": "Watchlist: Lendeborg rebounds"
+     },
+     {
+      "detail": "Toronto and the Clippers both played last night and stayed in LA. Golden State and the Lakers are also on back-to-backs. Watch for late rest scratches.",
+      "tag": "Fatigue",
+      "title": "Back-to-backs: TOR, LAC, GSW, LAL"
+     },
+     {
+      "detail": "Holmgren out and a wave of injuries; lost by 21 at Houston on Saturday. Cleveland at home.",
+      "tag": "Opponent injuries",
+      "title": "Thunder short-handed in Cleveland"
+     },
+     {
+      "detail": "Morant sidelined means more missed Portland shots and paint looks for Jokić; Portland allows a league-high 54% in the paint.",
+      "tag": "Opponent injuries",
+      "title": "Blazers without Morant in Denver"
+     },
+     {
+      "detail": "24 catches and still no TD, so his price drifted out to +250. Volume steady; the drought is the kind of thing books overreact to.",
+      "tag": "Bounce-back",
+      "title": "Odunze TD drought"
+     }
+    ]
+   },
+   "2026-11-03": {
+    "date": "2026-11-03",
+    "headline": "Light card under Playbook v2: one play. College football, opening-week college hoops and NHL goal-scorer props are now on the board.",
+    "items": [
+     {
+      "detail": "Several prices on the board came from offshore books (SportsBetting, Bovada, 1xBet, 22Bet) or US-only markets (Novig, Polymarket) that aren’t available in Ontario. They’re now greyed out and excluded from every edge, EV and stake.",
+      "impact": "The Penguins +140 was one of them. At the real Ontario price of −108 there’s no edge, so it’s withdrawn.",
+      "tag": "Stale line",
+      "title": "Ontario prices only from now on"
+     },
+     {
+      "detail": "All three played last night and are on the road tonight. Tired road teams are the cleanest edge on a hockey slate, but only when the price doesn’t already reflect it.",
+      "tag": "Fatigue",
+      "title": "Back-to-backs: DET, VGK, COL"
+     },
+     {
+      "detail": "Edmonton is the most-tipped bet tonight, but the model makes them a 42% team priced like 50%. That gap is where books make money.",
+      "tag": "Model edge",
+      "title": "Crowd vs model: Oilers"
+     },
+     {
+      "detail": "1–11–1 in their last 13, five straight home losses, 66.7% penalty kill.",
+      "tag": "Matchup",
+      "title": "Canucks in freefall"
+     },
+     {
+      "detail": "Miami (OH) is −6.5 after opening near −5.5. Dimers likes Miami to cover, Covers and Tony’s Picks like Buffalo, and one computer line has Miami by 14.",
+      "impact": "No side clears the engine’s bar; Novig’s even money on Miami is the best price if you want a lean.",
+      "tag": "Model edge",
+      "title": "MACtion: models split on Buffalo–Miami"
+     },
+     {
+      "detail": "Akron allows 5.8 yards per carry, 136th in FBS, and is 1–7 against 6–2 Ohio.",
+      "impact": "Already priced: Ohio −485 is slightly more expensive than the models’ ~81%.",
+      "tag": "Matchup",
+      "title": "Akron can’t stop the run"
+     },
+     {
+      "detail": "Dimers rates eight anytime-goal props as positive EV tonight, led by Arvidsson (+230) and Nylander (+175).",
+      "impact": "With one model source, the engine’s 80% interval still dips below break-even on all of them. Small stakes only if you play them.",
+      "tag": "Model edge",
+      "title": "Goal-scorer props: value on average, not yet robust"
+     }
+    ]
+   },
+   "2026-11-05": {
+    "date": "2026-11-05",
+    "headline": "Thursday: 11 NHL games, Jaguars at Ravens on TNF, two late NBA games.",
+    "items": [
+     {
+      "detail": "Lamar Jackson (thumb) and Tyler Huntley (toe) are out, so undrafted rookie Joe Fagnano starts. He went 10-of-21 for 91 yards and an interception in relief at Buffalo.",
+      "impact": "Jacksonville is −510 and 81.9% on SportRadar’s model: priced right. Experts split between Jaguars −8.5 and Ravens +10.",
+      "tag": "Opponent injuries",
+      "title": "Ravens down to their third quarterback"
+     },
+     {
+      "detail": "Only 6% of moneyline bets at DraftKings are on the Canucks (+180), but 81% of the money is. That gap usually means a few large bets.",
+      "impact": "A market signal, not a model edge: the engine still has Vancouver slightly negative at +180.",
+      "tag": "Stale line",
+      "title": "Sharp money on Vancouver"
+     },
+     {
+      "detail": "Montreal’s Jacob Fowler is second in the league in goals saved above expected; Utah’s .866 team save percentage is 30th.",
+      "impact": "Utah is still the −122 favourite. Not enough to flip the engine, but it’s the closest Montreal has come to value.",
+      "tag": "Matchup",
+      "title": "Goalie gap in Montreal"
+     },
+     {
+      "detail": "Evgeni Malkin returns from a lower-body injury against Boston.",
+      "impact": "The line moved to Pittsburgh −112; priced in.",
+      "tag": "Injury usage",
+      "title": "Malkin back for Pittsburgh"
+     },
+     {
+      "detail": "Ohio won 28–20 (didn’t cover −12.5 or −13.5); Buffalo beat Miami (OH) 34–31 in overtime; Vegas beat Pittsburgh 3–2.",
+      "impact": "The ‘home team always wins this series’ pattern broke in Buffalo–Miami: one more reason history stays a small weight.",
+      "tag": "Model edge",
+      "title": "Tuesday’s scorecard"
+     }
+    ]
+   }
+  },
+  "review": {
+   "2026-11-03": {
+    "counts": {
+     "candidates": 45,
+     "ontario": 16,
+     "pass1": 9,
+     "pass2": 2
+    },
+    "cuts": [
+     {
+      "pick": "Penguins ML",
+      "reason": "Withdrawn. The +140 was an offshore price (SportsBetting) that isn’t available in Ontario. DraftKings Ontario has Pittsburgh −108, the market has moved to price in Vegas’s back-to-back, and the model makes it about 51%: no edge. History still favours the home team (10 straight), but that’s already in the price.",
+      "stage": "Ontario price"
+     },
+     {
+      "pick": "Most NHL moneylines (Devils, Hurricanes, Canadiens, Rangers, Stars, Ducks) and all MACtion lines",
+      "reason": "Their prices came from offshore books, Novig or Polymarket. No Ontario price captured, so they can’t be recommended.",
+      "stage": "Ontario price"
+     },
+     {
+      "pick": "Arkansas-Pine Bluff +39.5, Manhattan +32.5, Cleveland State +26.5, South Dakota State lines",
+      "reason": "Prices came from sources that don’t name an Ontario book.",
+      "stage": "Ontario price"
+     },
+     {
+      "pick": "William Nylander anytime goal (+175)",
+      "reason": "Only clears the bar if I add a bump for Tavares being out, but Dimers’ model already accounts for the lineup. Double-counting caught; edge fails at the low end.",
+      "stage": "Review 2"
+     },
+     {
+      "pick": "Viktor Arvidsson anytime goal (+230)",
+      "reason": "I ranked this as the top prop earlier without factoring in Detroit’s back-to-back. With that included, the low end is −$5.92 per $100.",
+      "stage": "Review 2"
+     },
+     {
+      "pick": "Connor, DeBrincat, Boldy, Caufield, Boeser, Stone goal props",
+      "reason": "Single model source each; all fail at the low end of the interval.",
+      "stage": "Review 2"
+     },
+     {
+      "pick": "South Dakota State / Kansas State Over 159",
+      "reason": "An expert’s top pick, but history contradicts it: South Dakota State’s last nine comparable games all stayed at 156 or fewer, and Kansas State’s home games went under 159 ten of 11 times.",
+      "stage": "Review 2"
+     },
+     {
+      "pick": "Ohio −14.5 (+109)",
+      "reason": "History favours Ohio (seven straight series wins), but the two spread models are six points apart. Plus money isn’t enough to clear the bar.",
+      "stage": "Review 2"
+     },
+     {
+      "pick": "Arkansas-Pine Bluff +39.5 and Manhattan +32.5",
+      "reason": "One model each on huge opening-week spreads; shrinks to roughly fair.",
+      "stage": "Review 2"
+     }
+    ],
+    "date": "2026-11-03",
+    "final": [
+     {
+      "edge": "+1.1 pts",
+      "evlo": "−$4.0",
+      "game": "Drexel @ Virginia · 7:30 PM",
+      "h2h": "No recent meetings; Virginia won last season’s opener by 34.",
+      "model": "53.5%",
+      "pick": "Drexel +31.5",
+      "price": "−110 Caesars (Ontario)",
+      "tier": "lean",
+      "warn": [
+       "Opening-night rosters are unknown to every model. Tracked at 0 units."
+      ],
+      "why": "The most independent agreement on the college board: Dimers (54%), DRatings (projects a 21-point margin) and two analysts all lean Drexel, at a price you can actually bet in Ontario."
+     },
+     {
+      "edge": "+2.9 pts at even money",
+      "evlo": "−$1.9",
+      "game": "Buffalo @ Miami (OH) · 8:00 PM",
+      "h2h": "Miami won the last two meetings; the home team won seven straight from 2017–2023.",
+      "model": "52.9%",
+      "pick": "Miami (OH) −6.5",
+      "price": "No Ontario price captured · needs −112 or better",
+      "tier": "trigger",
+      "warn": [
+       "Only a lean if your Ontario book has Miami −6.5 at −112 or better."
+      ],
+      "why": "History and one model favour Miami, but the even-money price came from Novig, which isn’t available in Ontario. At the usual −110 the edge is about +1."
+     }
+    ],
+    "headline": "Re-run with Ontario-legal prices only. The Penguins edge disappears at the real Ontario price, so tonight there’s no bet: two tracked leans.",
+    "rule1": "A real price at a book licensed in Ontario, positive EV at the model’s mean, and at least one independent model behind it.",
+    "rule2": "Second look at my own reasoning: does the edge survive the pessimistic end of the interval? Am I double-counting something the model already knows? Does matchup history or a recent trend contradict it? Do the sources actually agree?"
+   },
+   "2026-11-05": {
+    "counts": {
+     "candidates": 25,
+     "ontario": 23,
+     "pass1": 1,
+     "pass2": 0
+    },
+    "cuts": [
+     {
+      "pick": "All 22 NHL moneylines",
+      "reason": "SportRadar and DraftKings agree within 1–2 points on every game. After the book’s ~4% margin, every side is negative EV, from −$2.63 (Lightning) to −$8.93 (Blackhawks) per $100.",
+      "stage": "Review 1"
+     },
+     {
+      "pick": "Jaguars / Ravens moneyline",
+      "reason": "No price from a named Ontario book captured. SportRadar’s 81.9% for Jacksonville matches the market almost exactly anyway.",
+      "stage": "Ontario price"
+     },
+     {
+      "pick": "Connor Bedard 3+ shots, Roman Josi 3+ shots, Mitch Marner 1+ assist",
+      "reason": "Analyst picks at DraftKings with no published probability, so there’s nothing independent to check them against.",
+      "stage": "Review 2"
+     }
+    ],
+    "date": "2026-11-05",
+    "final": [
+     {
+      "edge": "+4.5 pts",
+      "evlo": "−$1.8",
+      "game": "Predators @ Avalanche · 9:30 PM",
+      "h2h": "Divisional opponent; no shot-specific history found.",
+      "model": "48.9%",
+      "pick": "Nazem Kadri 3+ shots on goal",
+      "price": "+125 DraftKings (Ontario)",
+      "tier": "lean",
+      "warn": [
+       "Tracked at 0 units. The projection runs hotter than his season average."
+      ],
+      "why": "Action Network’s projection of 2.76 shots implies 52%, but his season average of 2.5 implies 46%. Blended, it’s still above the 44.4% break-even, just not by enough to survive the low end."
+     }
+    ],
+    "headline": "Every NHL moneyline is priced within a point or two of SportRadar’s model, so after the book’s margin there’s nothing to bet. One prop lean.",
+    "rule1": "A real price at a book licensed in Ontario, positive EV at the model’s mean, and at least one independent model behind it.",
+    "rule2": "Second look at my own reasoning: does the edge survive the pessimistic end of the interval? Am I double-counting something the model already knows? Does matchup history or a recent trend contradict it? Do the sources actually agree?"
+   }
+  },
+  "meta": {
+   "playbook": {
+    "headline": "Fewer, sharper plays. The first two days had too many bets, too much overlap and some guessed prices.",
+    "rules": [
+     "3 to 6 plays a night, never more than 5 units total at risk.",
+     "Only bet posted prices. No estimated lines, ever.",
+     "Minimum 3 points of edge (my win % minus the book’s implied %).",
+     "Props first. Sides and totals are the sharpest markets; our side bets went 0–3 as singles. A side needs a stale-line or late-injury reason to make the card.",
+     "Flat staking: 1u on standard plays, 0.5u on plus-money or thinner edges. No 1.5u bets.",
+     "One player, one ticket. No player appears in more than one bet on the same night.",
+     "One parlay a night at most, built only from that night’s singles. Flyers capped at 0.25u total per day.",
+     "Bounce-back only counts if minutes and shot attempts held steady. Injury usage only counts if the news broke after the line was set.",
+     "Log the closing price on every play. Beating the close is the real test of skill; judge the model after 100+ plays, not after two days.",
+     "Weekly stop: if a week hits −10u, drop to half units until we’re back to even."
+    ],
+    "version": "Playbook v2 · starts Nov 3"
+   },
+   "settings": {
+    "startBankroll": 500,
+    "unitValue": 10
+   }
+  }
+ }
+}

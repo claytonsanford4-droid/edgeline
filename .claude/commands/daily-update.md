@@ -1,0 +1,1 @@
+Run the "Daily update procedure" in CLAUDE.md for today's date (America/Toronto). Follow every hard rule, verify all prices and results from real sources, then commit and push. Finish with a short summary: yesterday's graded results, today's final picks (or "0 bets"), and anything you couldn't verify.
